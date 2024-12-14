@@ -201,7 +201,7 @@ def get_gpt_verification(id, sim_output, claim, model="gpt-4o-mini", **kwargs):
 train_annotated = pd.read_json('data/data/processed_data/extended_train_annotated.jsonl', lines=True)
 
 def gen_and_run_sims():
-    for i, row in tqdm(train_annotated[train_annotated['category'].isin(['directional'])].iterrows()):
+    for i, row in tqdm(train_annotated[train_annotated['category'].isin(['biology'])].iterrows()):
         id = row['id']
         claim = row['claim']
         abstract = row['abstract']
