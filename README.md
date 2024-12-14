@@ -36,14 +36,20 @@ pip install -r requirements.txt
 
 ```graphql
 ├── data/
+│   ├── *.jsonl          # Actual Dataset from SciFact Dataset
 │   ├── processed_data/  # Annotated SciFact train subset with additional labels
 ├── gpt_results/         # Logs of GPT prompts and responses
 ├── gpt_ver_results/     # Logs of GPT verification outputs
 ├── simscripts/          # Generated simulation scripts and execution logs
 ├── src/
-│   ├── cot.py           # Main script for claim verification
-│   ├── simulation_utils.py  # Base simulation utilities
-│   ├── example_bacteria.py  # Example simulation script for bacteria
+├── cot.py               # Main script for claim verification
+├── data_filter.py       # Script for filtering and preprocessing dataset
+├── evaluation.py        # Script for evaluating simulation results
+├── simulation_utils.py  # Base simulation utilities
+├── bacteria.py          # Example simulation script for bacterial growth
+├── example_bacteria.py  # Example simulation script for bacteria
+├── link.txt                    # Reference links and resources for the project
+├── Project3_ScientificReasoning.pdf  # Project report on scientific reasoning using simulations
 └── README.md            # Project documentation
 ```
 
