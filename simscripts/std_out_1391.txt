@@ -1,0 +1,17 @@
+In the environment, you see: 
+	Temperature: 37 °C
+	miR-142-5P with expression level: 0
+
+Action: increase temperature
+You increase the Body Temperature by 1 °C.
+
+Action: increase temperature
+You increase the Body Temperature by 1 °C.
+
+Action: look
+In the environment, you see: 
+	Temperature: 39 °C
+	miR-142-5P with expression level: 2
+
+
+Claim Supported: miR-142-5P is a known regulator of raised body temperature.

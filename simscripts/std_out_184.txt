@@ -1,0 +1,5 @@
+environment
+Action: look
+environment
+
+Supported: Host macrophages can expand independently of donor macrophages.

@@ -1,0 +1,5 @@
+granuloma_environment
+Action: look
+granuloma_environment
+
+Claim Supported: The tissue surrounding the granuloma induces an anti-inflammatory immune response.

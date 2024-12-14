@@ -1,0 +1,9 @@
+In the environment, you see: 
+	RIM1 with mutation level 3 has IME1 expression level of 100.
+	IME1
+
+After simulation tick:
+In the environment, you see: 
+	RIM1 with mutation level 3 has IME1 expression level of 100.
+	IME1
+

@@ -1,0 +1,26 @@
+In the environment, you see: 
+	A Yeast Cell with Rnt1p with iron sensitivity level 0.
+	A Yeast Cell without Rnt1p with iron sensitivity level 0.
+
+Simulating the effect of RNA surveillance pathways on iron sensitivity...
+
+In the environment, you see: 
+	A Yeast Cell with Rnt1p with iron sensitivity level 0.
+	A Yeast Cell without Rnt1p with iron sensitivity level 1.
+
+In the environment, you see: 
+	A Yeast Cell with Rnt1p with iron sensitivity level 0.
+	A Yeast Cell without Rnt1p with iron sensitivity level 2.
+
+In the environment, you see: 
+	A Yeast Cell with Rnt1p with iron sensitivity level 0.
+	A Yeast Cell without Rnt1p with iron sensitivity level 3.
+
+In the environment, you see: 
+	A Yeast Cell with Rnt1p with iron sensitivity level 0.
+	A Yeast Cell without Rnt1p with iron sensitivity level 4.
+
+In the environment, you see: 
+	A Yeast Cell with Rnt1p with iron sensitivity level 0.
+	A Yeast Cell without Rnt1p with iron sensitivity level 5.
+

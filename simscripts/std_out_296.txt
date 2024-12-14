@@ -1,0 +1,3 @@
+Cyclin A is present, preventing stabilization of k-MT attachments.
+Cyclin A is destroyed, k-MT attachments are now stable.
+

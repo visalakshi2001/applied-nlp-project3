@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A Vascular Smooth Muscle Cell with cholesterol level 0, KLF4 expression 0, and pro-inflammatory cytokines 0.
+
+Action: load cholesterol into Vascular Smooth Muscle Cell
+You load cholesterol into Vascular Smooth Muscle Cell.
+
+Action: look
+In the environment, you see: 
+	A Vascular Smooth Muscle Cell with cholesterol level 1, KLF4 expression 1, and pro-inflammatory cytokines 2.
+
+

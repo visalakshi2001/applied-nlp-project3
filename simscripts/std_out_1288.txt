@@ -1,0 +1,21 @@
+In the hospital, you see: 
+	Patient A: Statin use = True, Hip fracture = False
+	Patient B: Statin use = True, Hip fracture = False
+	Patient C: Statin use = False, Hip fracture = True
+	Patient D: Statin use = False, Hip fracture = True
+In the hospital, you see: 
+	Patient A: Statin use = True, Hip fracture = False
+	Patient B: Statin use = True, Hip fracture = False
+	Patient C: Statin use = False, Hip fracture = True
+	Patient D: Statin use = False, Hip fracture = True
+In the hospital, you see: 
+	Patient A: Statin use = True, Hip fracture = False
+	Patient B: Statin use = True, Hip fracture = False
+	Patient C: Statin use = False, Hip fracture = True
+	Patient D: Statin use = False, Hip fracture = True
+In the hospital, you see: 
+	Patient A: Statin use = True, Hip fracture = False
+	Patient B: Statin use = True, Hip fracture = False
+	Patient C: Statin use = False, Hip fracture = True
+	Patient D: Statin use = False, Hip fracture = True
+

@@ -1,0 +1,12 @@
+In the environment, you see: 
+	Vitamin E at 400 IU every other day dosage has unknown effect on cancer risk.
+	Vitamin C at 500 mg daily dosage has unknown effect on cancer risk.
+	Current prostate cancer risk level is: not reduced.
+
+Action: look
+In the environment, you see: 
+	Vitamin E at 400 IU every other day dosage has unknown effect on cancer risk.
+	Vitamin C at 500 mg daily dosage has unknown effect on cancer risk.
+	Current prostate cancer risk level is: not reduced.
+
+

@@ -1,0 +1,28 @@
+In the atherosclerosis environment, you see: 
+	A stable plaque with IL-18 level 0 and is unstable.
+	A unstable plaque with IL-18 level 5 and is unstable.
+
+Action: look
+In the atherosclerosis environment, you see: 
+	A stable plaque with IL-18 level 0 and is unstable.
+	A unstable plaque with IL-18 level 5 and is unstable.
+
+
+Action: increase IL-18
+You increase the IL-18 level of unstable plaque by 1.
+
+Action: look
+In the atherosclerosis environment, you see: 
+	A stable plaque with IL-18 level 0 and is stable.
+	A unstable plaque with IL-18 level 6 and is unstable.
+
+
+Action: decrease IL-18
+You decrease the IL-18 level of stable plaque by 1.
+
+Action: look
+In the atherosclerosis environment, you see: 
+	A stable plaque with IL-18 level -1 and is stable.
+	A unstable plaque with IL-18 level 6 and is unstable.
+
+

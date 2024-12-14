@@ -1,0 +1,6 @@
+In the environment, you see: 
+	IL6R
+	Coronary Heart Disease
+
+Action: simulate IL-6 signaling
+IL-6 signaling increased by 14.6 and coronary heart disease risk is now 96.6.

@@ -1,0 +1,16 @@
+In the cell environment, you see: 
+	miRNA_1
+	miRNA_2
+
+Action: suppress transcription of miRNA_1
+miRNA_1 is suppressing transcription. Current level: 2
+
+Action: suppress transcription of miRNA_2
+miRNA_2 is suppressing transcription. Current level: 0
+
+Action: look
+In the cell environment, you see: 
+	miRNA_1
+	miRNA_2
+
+

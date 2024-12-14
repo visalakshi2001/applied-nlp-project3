@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_953.py", line 88, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_953.py", line 83, in main
+    obs = simulation.step("tick")
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_953.py", line 71, in step
+    patient.tick()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_953.py", line 19, in tick
+    self.properties["pancreatic_cancer"] = True if random.random() < 0.41 else False  # 41% risk based on HR
+                                                   ^^^^^^
+NameError: name 'random' is not defined

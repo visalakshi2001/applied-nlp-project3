@@ -1,0 +1,5 @@
+glioblastoma_environment
+Action: look
+glioblastoma_environment
+
+Action: target A20 in GSC_1

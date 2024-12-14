@@ -1,0 +1,5 @@
+environment
+Action: look
+environment
+
+Claim Supported: Rapid phosphotransfer rates are correlated with histidine kinase regulator specificity.

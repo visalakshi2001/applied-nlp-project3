@@ -1,0 +1,6 @@
+In the health environment, you see: 
+	Suboptimal Nutrition with an impact level of 8.
+	Tobacco Smoking with an impact level of 7.
+	High Body Mass Index with an impact level of 6.
+
+Claim verification result: Supported

@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Patient 1 uses pioglitazone: True. Prostate cancer risk: 0.
+	Patient 2 uses pioglitazone: False. Prostate cancer risk: 0.
+
+Action: look
+In the environment, you see: 
+	Patient 1 uses pioglitazone: True. Prostate cancer risk: 0.
+	Patient 2 uses pioglitazone: False. Prostate cancer risk: 0.
+
+
+Claim is Refuted: Pioglitazone use is associated with an increased risk of prostate cancer.

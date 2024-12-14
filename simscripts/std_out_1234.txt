@@ -1,0 +1,10 @@
+environment
+Action: look
+environment
+
+Action: simulate G allele effect
+Simulated effect of G allele: IL-10 production level is 1.
+
+Action: simulate T allele effect
+Simulated effect of T allele: No change in IL-10 production.
+

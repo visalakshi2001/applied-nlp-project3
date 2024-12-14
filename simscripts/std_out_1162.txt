@@ -1,0 +1,4 @@
+In the environment, you see: 
+	DdrB protein is a pentameric ring capable of binding single-stranded DNA.
+
+Claim verification result: Supported

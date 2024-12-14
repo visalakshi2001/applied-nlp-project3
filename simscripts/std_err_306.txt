@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_306.py", line 163, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_306.py", line 159, in main
+    obs = simulation.step(action)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_306.py", line 149, in step
+    apoptosis.evaluate(dusp4)
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_306.py", line 100, in evaluate
+    if dusp4.apoptosis_effect == "increased":
+       ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DUSP4' object has no attribute 'apoptosis_effect'

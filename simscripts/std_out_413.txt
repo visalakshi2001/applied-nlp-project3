@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Woman A has 40 reproductive years and a dementia risk factor of 4.2.
+	Woman B has 30 reproductive years and a dementia risk factor of 1.0.
+
+Claim Refuted: Female carriers of the APOE4 allele have increased risk for dementia.

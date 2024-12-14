@@ -1,0 +1,6 @@
+In the environment, you see: 
+	C2
+	A-769662
+	AMPK
+The claim is supported: C2 works synergistically with A-769662 to activate AMPK.
+

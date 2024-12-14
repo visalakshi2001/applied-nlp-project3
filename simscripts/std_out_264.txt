@@ -1,0 +1,5 @@
+Inflammatory Cycle
+Autoantibodies present: Autoantibody against Citrullinated Vimentin, Autoantibody against Citrullinated Fibrinogen
+Neutrophils present: Neutrophil 1, Neutrophil 2
+
+Claim Supported: Citrullinated proteins externalized in neutrophil extracellular traps act indirectly to perpetuate the inflammatory cycle via induction of autoantibodies.

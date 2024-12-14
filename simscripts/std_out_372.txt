@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Eilat Virus
+	Nonhuman Primate
+
+Action: vaccinate primate with Eilat Virus
+Nonhuman Primate has been vaccinated with Eilat Virus.
+
+Action: tick
+One tick of the simulation has occurred.
+
+Claim Supported: Eilat virus elicits rapid and long-lasting neutralizing antibodies in nonhuman primates.

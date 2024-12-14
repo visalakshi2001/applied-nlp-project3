@@ -1,0 +1,9 @@
+In the environment, you see: 
+	A TReg named TReg_1, whose current function level is 5.
+
+Action: look
+In the environment, you see: 
+	A TReg named TReg_1, whose current function level is 5.
+
+
+Claim Supported: Type 1 Diabetes is associated with subtle perturbations in T reg development.

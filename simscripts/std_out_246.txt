@@ -1,0 +1,6 @@
+Simulation Results:
+Patient 1: Renal function normal: False, Survived: False, Activated charcoal effect: no benefit.
+Patient 2: Renal function normal: True, Survived: True, Activated charcoal effect: little effect.
+Patient 3: Renal function normal: True, Survived: True, Activated charcoal effect: little effect.
+Patient 4: Renal function normal: False, Survived: False, Activated charcoal effect: no benefit.
+

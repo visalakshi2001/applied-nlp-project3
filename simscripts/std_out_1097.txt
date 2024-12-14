@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A knockin mouse. SHP2 signal deficient: True. Splenomegaly: False.
+
+Claim Supported: Splenomegaly is observed in knockin mouse lacking the SHP-2 MAPK pathway.

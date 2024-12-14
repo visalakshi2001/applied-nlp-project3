@@ -1,0 +1,12 @@
+In the environment, you see: 
+	A Polymeal with daily intake of 0 servings, which reduces cardiovascular events by 76%, increases life expectancy by 6.6 years, and decreases life expectancy with cardiovascular disease by -2.4 years.
+
+Action: increase daily intake of Polymeal
+You increase the daily intake of Polymeal by 1 serving.
+
+Action: look
+In the environment, you see: 
+	A Polymeal with daily intake of 1 servings, which reduces cardiovascular events by 76%, increases life expectancy by 6.6 years, and decreases life expectancy with cardiovascular disease by -2.4 years.
+
+
+Claim Supported: Polymeal nutrition reduces cardiovascular mortality.

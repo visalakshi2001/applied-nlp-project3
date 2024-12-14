@@ -1,0 +1,4 @@
+In the Dialysis Center, you see: 
+	Patient A: On dialysis: True, Receiving therapy: True, Cardiovascular events: 0
+	Patient B: On dialysis: True, Receiving therapy: False, Cardiovascular events: 1
+

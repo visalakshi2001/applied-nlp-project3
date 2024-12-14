@@ -1,0 +1,10 @@
+World
+Action: look
+None
+
+Action: tick
+None
+
+Action: look
+None
+

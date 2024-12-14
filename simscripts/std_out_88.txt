@@ -1,0 +1,8 @@
+In the tissue, you see: 
+	A tissue-resident macrophage with a self-renewing capacity of 1.
+
+Action: look
+In the tissue, you see: 
+	A tissue-resident macrophage with a self-renewing capacity of 1.
+
+

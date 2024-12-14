@@ -1,0 +1,28 @@
+In the lipid homeostasis environment, you see: 
+	A lipid droplet with lipid storage level at 0.
+	A COPI complex that is inactive.
+
+Action: look
+In the lipid homeostasis environment, you see: 
+	A lipid droplet with lipid storage level at 0.
+	A COPI complex that is inactive.
+
+
+Action: activate COPI
+COPI complex is now active.
+
+Action: look
+In the lipid homeostasis environment, you see: 
+	A lipid droplet with lipid storage level at -1.
+	A COPI complex that is active.
+
+
+Action: deactivate COPI
+COPI complex is now inactive.
+
+Action: look
+In the lipid homeostasis environment, you see: 
+	A lipid droplet with lipid storage level at 0.
+	A COPI complex that is inactive.
+
+

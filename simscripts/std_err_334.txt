@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_334.py", line 120, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_334.py", line 115, in main
+    obs = simulation.step(action)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_334.py", line 100, in step
+    self.doWorldTick()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_334.py", line 106, in doWorldTick
+    obj.tick()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_334.py", line 29, in tick
+    if self.parent.getProperty("nitricOxide").concentration < 1:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'concentration'

@@ -1,0 +1,3 @@
+High Density TB Incidence: 60.0
+Low Density TB Incidence: 20.0
+Claim Verification Result: Supported

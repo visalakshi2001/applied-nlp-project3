@@ -1,0 +1,11 @@
+In the ICU, you see: 
+	Patient 1 has an mtDNA level of 3500 copies/µl plasma and a mortality risk of 0.
+	Patient 2 has an mtDNA level of 2500 copies/µl plasma and a mortality risk of 0.
+
+Action: look
+In the ICU, you see: 
+	Patient 1 has an mtDNA level of 3500 copies/µl plasma and a mortality risk of 0.
+	Patient 2 has an mtDNA level of 2500 copies/µl plasma and a mortality risk of 0.
+
+
+Claim Supported: Elevated mtDNA levels are associated with increased mortality risk.

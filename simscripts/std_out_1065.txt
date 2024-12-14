@@ -1,0 +1,34 @@
+In the environment, you see: 
+	A skeletal muscle, size: 100, regenerative capacity: 100, fibrosis: 0.
+	A satellite cell with activity level: 100.
+
+Tick:
+In the environment, you see: 
+	A skeletal muscle, size: 100, regenerative capacity: 100, fibrosis: 0.
+	A satellite cell with activity level: 100.
+
+
+Tick:
+In the environment, you see: 
+	A skeletal muscle, size: 100, regenerative capacity: 99, fibrosis: 1.
+	A satellite cell with activity level: 99.
+
+
+Tick:
+In the environment, you see: 
+	A skeletal muscle, size: 100, regenerative capacity: 98, fibrosis: 2.
+	A satellite cell with activity level: 98.
+
+
+Tick:
+In the environment, you see: 
+	A skeletal muscle, size: 100, regenerative capacity: 97, fibrosis: 3.
+	A satellite cell with activity level: 97.
+
+
+Tick:
+In the environment, you see: 
+	A skeletal muscle, size: 100, regenerative capacity: 96, fibrosis: 4.
+	A satellite cell with activity level: 96.
+
+

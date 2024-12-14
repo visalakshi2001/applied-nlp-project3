@@ -1,0 +1,12 @@
+In the environment, you see: 
+	Innate Immune Response
+	Parasite with dose 1
+	Parasite with dose 5
+	Parasite with dose 10
+
+Claim Verification:
+The innate immune response struggles to remove small numbers of parasites.
+Results of immune response against parasites with doses 1, 5, and 10:
+Parasite with dose 1 removed: True
+Parasite with dose 5 removed: True
+Parasite with dose 10 removed: False

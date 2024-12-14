@@ -1,0 +1,2 @@
+Vascular Smooth Muscle Cell
+Supported: PTEN regulates the transcriptional activity of SRF.

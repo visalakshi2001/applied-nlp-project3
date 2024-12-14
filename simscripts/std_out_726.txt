@@ -1,0 +1,10 @@
+In the environment, you see: 
+	A Ly6C hi monocyte with inflammatory capacity of 0.
+	A Ly6C lo monocyte with inflammatory capacity of 0.
+
+Action: simulate inflammation
+In the environment, you see: 
+	A Ly6C hi monocyte with inflammatory capacity of 2.
+	A Ly6C lo monocyte with inflammatory capacity of 1.
+
+Claim Supported: Ly6C hi monocytes have a higher inflammatory capacity than Ly6C lo monocytes.

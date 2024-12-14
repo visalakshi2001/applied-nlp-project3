@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_748.py", line 166, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_748.py", line 161, in main
+    obs = simulation.step(action)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_748.py", line 150, in step
+    self.observationStr = self.actionUbiquitinate(action[1])
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_748.py", line 135, in actionUbiquitinate
+    mafa.ubiquitate()
+    ^^^^^^^^^^^^^^^
+AttributeError: 'MafA' object has no attribute 'ubiquitate'. Did you mean: 'ubiquitinate'?

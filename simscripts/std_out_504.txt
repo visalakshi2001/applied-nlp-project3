@@ -1,0 +1,3 @@
+Healthy Volunteer has been injected with fructose. Current ATP: 80
+Healthy Volunteer has recovered ATP. Current ATP: 110
+Claim Supported: Healthy volunteers exhibit rapid and transient increase of cellular ATP after being bolus-injected with fructose.

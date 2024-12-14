@@ -1,0 +1,7 @@
+In the brain environment, you see: 
+	astrocyte_1
+	astrocyte_2
+	neuron_1
+	seizure_event
+
+Action: look

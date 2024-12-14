@@ -1,0 +1,17 @@
+In the environment, you see: 
+	Microcin J25
+	RNA Polymerase
+
+Action: bind NTP with Microcin J25
+Microcin J25 binds to NTP.
+
+Action: bind NTP with RNA Polymerase
+RNA Polymerase binds to NTP.
+
+Action: look
+In the environment, you see: 
+	Microcin J25
+	RNA Polymerase
+
+
+Claim Supported: Microcin J25 encourages NTP binding.

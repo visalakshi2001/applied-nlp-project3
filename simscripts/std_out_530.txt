@@ -1,0 +1,13 @@
+In the environment, you see: 
+	Human Embryonic Stem Cell
+
+Action: differentiate into ectoderm
+Human Embryonic Stem Cell differentiated into ectoderm.
+
+Action: differentiate into mesoderm
+Human Embryonic Stem Cell differentiated into mesoderm.
+
+Action: differentiate into endoderm
+Human Embryonic Stem Cell differentiated into endoderm.
+
+Action: look

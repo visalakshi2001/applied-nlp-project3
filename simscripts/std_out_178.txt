@@ -1,0 +1,7 @@
+In the BreastCancerRiskSimulation, you see: 
+	Birth weight: 2.4 kg, Breast cancer risk: 0.96
+	Birth weight: 3.0 kg, Breast cancer risk: 1.0
+	Birth weight: 3.5 kg, Breast cancer risk: 1.0
+	Birth weight: 4.0 kg, Breast cancer risk: 1.12
+
+Claim Refuted: Birth-weight is positively associated with breast cancer.

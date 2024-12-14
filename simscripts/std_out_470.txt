@@ -1,0 +1,4 @@
+In the environment, you see: 
+	Glioblastoma Multiforme has the following characteristics: Invasion: extensive, Growth: rapid, Necrosis: present, Angiogenesis: active.
+
+Claim verification result: Supported

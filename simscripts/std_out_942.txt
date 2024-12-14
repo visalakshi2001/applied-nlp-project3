@@ -1,0 +1,5 @@
+In the Transplantation Environment, you have:
+	Donor_1 with haplotype HLA-A1
+	Recipient_1 with haplotype HLA-A1
+
+The claim is supported: Phase information is useful for predicting donor-recipient matches.

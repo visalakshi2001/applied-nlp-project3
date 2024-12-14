@@ -1,0 +1,10 @@
+lab
+Action: add progerin to fibroblast
+Progerin added to iPSC-derived fibroblast.
+
+Action: add progerin to neuron
+Progerin added to iPSC-derived neuron.
+
+Action: look
+lab
+

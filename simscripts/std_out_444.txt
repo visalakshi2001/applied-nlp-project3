@@ -1,0 +1,22 @@
+In the bone marrow environment, you see: 
+	A HSC_1, which is not in cycle.
+	A HSC_2, which is not in cycle.
+	GATA3
+
+Action: look
+In the bone marrow environment, you see: 
+	A HSC_1, which is not in cycle.
+	A HSC_2, which is not in cycle.
+	GATA3
+
+
+Action: activate GATA3 on HSC_1
+GATA3 has activated HSC_1 to enter the cell cycle.
+
+Action: look
+In the bone marrow environment, you see: 
+	A HSC_1, which is in cycle.
+	A HSC_2, which is not in cycle.
+	GATA3
+
+

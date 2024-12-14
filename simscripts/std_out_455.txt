@@ -1,0 +1,10 @@
+In the genome stability environment, you see: 
+	A gene named Gene A, which is stable.
+	A gene named Gene B, which is stable.
+
+Action: look
+In the genome stability environment, you see: 
+	A gene named Gene A, which is stable.
+	A gene named Gene B, which is stable.
+
+

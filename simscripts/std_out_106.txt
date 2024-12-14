@@ -1,0 +1,2 @@
+Hypertension Diagnosis Environment
+Supported: Ambulatory monitoring is more accurate than clinic and home monitoring.

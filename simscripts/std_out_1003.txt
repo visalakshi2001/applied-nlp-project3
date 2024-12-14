@@ -1,0 +1,13 @@
+environment
+Action: apply replication stress to DNA Replication
+You apply replication stress to DNA Replication.
+
+Action: look
+environment
+
+Action: remove replication stress from DNA Replication
+You remove replication stress from DNA Replication.
+
+Action: look
+environment
+

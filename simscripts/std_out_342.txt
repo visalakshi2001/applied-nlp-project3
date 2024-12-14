@@ -1,0 +1,10 @@
+In the hospital environment, you see: 
+	Diabetic Patient (Diabetes: True, Bleeding Risk: 5)
+	Nondiabetic Patient (Diabetes: False, Bleeding Risk: 5)
+
+Action: look
+In the hospital environment, you see: 
+	Diabetic Patient (Diabetes: True, Bleeding Risk: 5)
+	Nondiabetic Patient (Diabetes: False, Bleeding Risk: 5)
+
+

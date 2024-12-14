@@ -1,0 +1,35 @@
+In the HIV Simulation Environment, you see: 
+	Patient A with stable partnership: True. Time to AIDS or death: 0, CD4 count: 0, Viral load: 0.
+	Patient B with stable partnership: False. Time to AIDS or death: 0, CD4 count: 0, Viral load: 0.
+
+Ticking...
+In the HIV Simulation Environment, you see: 
+	Patient A with stable partnership: True. Time to AIDS or death: 0.79, CD4 count: 1, Viral load: 0.
+	Patient B with stable partnership: False. Time to AIDS or death: 1, CD4 count: -1, Viral load: 1.
+
+
+Ticking...
+In the HIV Simulation Environment, you see: 
+	Patient A with stable partnership: True. Time to AIDS or death: 1.58, CD4 count: 2, Viral load: 0.
+	Patient B with stable partnership: False. Time to AIDS or death: 2, CD4 count: -2, Viral load: 2.
+
+
+Ticking...
+In the HIV Simulation Environment, you see: 
+	Patient A with stable partnership: True. Time to AIDS or death: 2.37, CD4 count: 3, Viral load: 0.
+	Patient B with stable partnership: False. Time to AIDS or death: 3, CD4 count: -3, Viral load: 3.
+
+
+Ticking...
+In the HIV Simulation Environment, you see: 
+	Patient A with stable partnership: True. Time to AIDS or death: 3.16, CD4 count: 4, Viral load: 0.
+	Patient B with stable partnership: False. Time to AIDS or death: 4, CD4 count: -4, Viral load: 4.
+
+
+Ticking...
+In the HIV Simulation Environment, you see: 
+	Patient A with stable partnership: True. Time to AIDS or death: 3.95, CD4 count: 5, Viral load: 0.
+	Patient B with stable partnership: False. Time to AIDS or death: 5, CD4 count: -5, Viral load: 5.
+
+
+Claim Refuted: Having a main partner does not worsen HIV outcomes.

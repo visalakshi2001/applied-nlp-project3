@@ -1,0 +1,4 @@
+Chlamydia Prevalence Results:
+Prevalence in individuals aged 16-24: Female: 16.666666666666664%, Male: 33.33333333333333%
+Overall Prevalence: Female: 16.666666666666664%, Male: 33.33333333333333%
+Claim Supported: Chlamydia trachomatis is prevalent among sexually-experienced individuals aged 16 to 24.

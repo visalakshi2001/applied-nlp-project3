@@ -1,0 +1,4 @@
+Patient 1: Erectile function score after treatment is 7.
+Patient 2: Erectile function score after treatment is 4.
+Patient 3: Erectile function score after treatment is 10.
+Claim is Supported: Sildenafil improves erectile function.

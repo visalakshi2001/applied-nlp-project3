@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1231.py", line 72, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1231.py", line 68, in main
+    simulation = Simulation()
+                 ^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1231.py", line 47, in __init__
+    self.observationStr = self.rootObject.makeDescriptionStr()
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1231.py", line 41, in makeDescriptionStr
+    outStr += "\t" + obj.makeDescriptionStr() + "\n"
+                     ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1231.py", line 32, in makeDescriptionStr
+    return f"{self.name} carrying {self.allele.name} has symptom severity: {self.symptom_severity}"
+                                                                            ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Patient' object has no attribute 'symptom_severity'

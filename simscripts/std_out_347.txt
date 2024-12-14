@@ -1,0 +1,10 @@
+In the haematopoietic environment, you see: 
+	A normal_progenitor with insulin signaling at 1, resulting in undifferentiated.
+	A suppressed_progenitor with insulin signaling at 0, resulting in undifferentiated.
+
+Action: look
+In the haematopoietic environment, you see: 
+	A normal_progenitor with insulin signaling at 1, resulting in undifferentiated.
+	A suppressed_progenitor with insulin signaling at 0, resulting in undifferentiated.
+
+

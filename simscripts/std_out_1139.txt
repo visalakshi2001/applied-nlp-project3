@@ -1,0 +1,10 @@
+In the environment, you see: 
+	Vitamin E at 400 IU dosage has an effect on cancer risk: unknown.
+	Current prostate cancer risk level is: unknown.
+
+Action: look
+In the environment, you see: 
+	Vitamin E at 400 IU dosage has an effect on cancer risk: unknown.
+	Current prostate cancer risk level is: unknown.
+
+

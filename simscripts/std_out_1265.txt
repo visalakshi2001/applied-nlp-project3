@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Woman A has a placental weight of 450g and a breast cancer risk level of low.
+	Woman B has a placental weight of 600g and a breast cancer risk level of moderate.
+	Woman C has a placental weight of 750g and a breast cancer risk level of high.
+

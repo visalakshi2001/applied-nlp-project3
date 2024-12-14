@@ -1,0 +1,7 @@
+In the environment, you see: 
+	Gynandromorph Chicken consists of:
+	Left Cell with sex identity: male.
+	Right Cell with sex identity: female.
+
+
+Claim verification result: Supported

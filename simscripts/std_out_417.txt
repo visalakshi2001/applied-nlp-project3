@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Woman 1 is an APOE4 carrier with 40 reproductive years and a dementia risk of 0.
+	Woman 2 is an APOE4 carrier with 30 reproductive years and a dementia risk of 0.
+	Woman 3 is not an APOE4 carrier with 35 reproductive years and a dementia risk of 0.
+

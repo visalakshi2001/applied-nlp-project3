@@ -1,0 +1,10 @@
+environment
+Action: look
+environment
+
+Action: alter firing time
+Altered firing time of Origin_1 to early, resulting in Okazaki_Fragment_1 termination zone change to zone_B.
+
+Action: check termination zone
+Okazaki_Fragment_1 has termination zone at zone_B.
+

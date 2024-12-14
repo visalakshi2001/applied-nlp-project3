@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A virus named Commelina yellow mottle virus (ComYMV) with ORFs encoding proteins: 23, 15, 216 kD.
+
+Claim Supported: The virus has three typical badnavirus ORFs encoding proteins 23, 15, and 216 kD.

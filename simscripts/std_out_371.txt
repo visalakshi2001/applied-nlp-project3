@@ -1,0 +1,4 @@
+In the immune system, you see: 
+	A B cell with Egr3 inactive, proinflammatory cytokines: 5, antigen receptor proliferation: 0, STAT1 activity: 2, STAT3 activity: 2, AP-1 activity: 0.
+	A T cell with Egr3 inactive, proinflammatory cytokines: 5, antigen receptor proliferation: 0, STAT1 activity: 2, STAT3 activity: 2, AP-1 activity: 0.
+

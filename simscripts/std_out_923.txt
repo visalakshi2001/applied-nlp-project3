@@ -1,0 +1,34 @@
+In the HIV Patient Environment, you see: 
+	Patient A, who has a stable partnership, has a progression rate of 1.00.
+	Patient B, who does not have a stable partnership, has a progression rate of 1.00.
+
+Action: tick
+In the HIV Patient Environment, you see: 
+	Patient A, who has a stable partnership, has a progression rate of 0.79.
+	Patient B, who does not have a stable partnership, has a progression rate of 1.00.
+
+
+Action: tick
+In the HIV Patient Environment, you see: 
+	Patient A, who has a stable partnership, has a progression rate of 0.62.
+	Patient B, who does not have a stable partnership, has a progression rate of 1.00.
+
+
+Action: tick
+In the HIV Patient Environment, you see: 
+	Patient A, who has a stable partnership, has a progression rate of 0.49.
+	Patient B, who does not have a stable partnership, has a progression rate of 1.00.
+
+
+Action: tick
+In the HIV Patient Environment, you see: 
+	Patient A, who has a stable partnership, has a progression rate of 0.39.
+	Patient B, who does not have a stable partnership, has a progression rate of 1.00.
+
+
+Action: tick
+In the HIV Patient Environment, you see: 
+	Patient A, who has a stable partnership, has a progression rate of 0.31.
+	Patient B, who does not have a stable partnership, has a progression rate of 1.00.
+
+

@@ -1,0 +1,15 @@
+In the cellular environment, you see: 
+	A fibroblast with focal adhesion active, mechanical strain of 0, and scarring level of 0.
+
+Action: inhibit focal adhesion of fibroblast
+You inhibited focal adhesion of fibroblast.
+
+Action: apply mechanical strain to fibroblast
+You applied mechanical strain to fibroblast.
+
+Action: look
+In the cellular environment, you see: 
+	A fibroblast with focal adhesion inactive, mechanical strain of 10, and scarring level of 5.0.
+
+
+Claim Supported: Inhibiting focal adhesion formation enables cells to convert mechanical strain into eventual scarring.

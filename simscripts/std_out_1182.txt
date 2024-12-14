@@ -1,0 +1,8 @@
+environment
+Action: increase Snf1 activity of baker's yeast
+You increase the Snf1 activity of baker's yeast by 1.
+
+Action: look
+environment
+
+Claim Supported: The Snf1 complex regulates carbon and energy metabolism in baker's yeast.

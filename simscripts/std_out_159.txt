@@ -1,0 +1,10 @@
+In the BRCA1 Mutation Environment, you see: 
+	Carrier 1 has a mutation at BCCR1. Breast cancer risk: 1.46, Ovarian cancer risk: 0.62.
+	Carrier 2 has a mutation at OCCR. Breast cancer risk: 1.34, Ovarian cancer risk: 1.2.
+
+Action: look
+In the BRCA1 Mutation Environment, you see: 
+	Carrier 1 has a mutation at BCCR1. Breast cancer risk: 1.46, Ovarian cancer risk: 0.62.
+	Carrier 2 has a mutation at OCCR. Breast cancer risk: 1.34, Ovarian cancer risk: 1.2.
+
+

@@ -1,0 +1,5 @@
+In the Diabetes Treatment Environment, you see: 
+	Patient 1 - Pioglitazone Use: True, Pancreatic Cancer: False
+	Patient 2 - Pioglitazone Use: False, Pancreatic Cancer: False
+
+Action: tick

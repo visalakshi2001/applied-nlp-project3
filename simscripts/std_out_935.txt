@@ -1,0 +1,8 @@
+In the immune system environment, you see: 
+	A T-cell named TCell_1 with tolerance level: 0.
+	Peroxynitrite with concentration: 0.
+
+Action: increase concentration of Peroxynitrite_1
+
+
+Action: induce tolerance in TCell_1

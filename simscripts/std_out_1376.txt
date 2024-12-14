@@ -1,0 +1,3 @@
+hospital
+Conclusion: Whole brain radiotherapy (WBRT) combined with SRS reduces the occurrence of new brain metastases compared to SRS alone.
+Claim verification result: Supported

@@ -1,0 +1,4 @@
+hospital
+Running simulation...
+hospital
+Refuted: There is a relation between Erythromycin use and hypertrophic pyloric stenosis.

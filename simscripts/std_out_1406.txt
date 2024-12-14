@@ -1,0 +1,9 @@
+environment
+Pleurotolysin has a beta-sheet angle of 10 degrees. The pore has not been formed yet.
+Pleurotolysin has a beta-sheet angle of 20 degrees. The pore has not been formed yet.
+Pleurotolysin has a beta-sheet angle of 30 degrees. The pore has not been formed yet.
+Pleurotolysin has a beta-sheet angle of 40 degrees. The pore has not been formed yet.
+Pleurotolysin has a beta-sheet angle of 50 degrees. The pore has not been formed yet.
+Pleurotolysin has a beta-sheet angle of 60 degrees. The pore has not been formed yet.
+Pleurotolysin has a beta-sheet angle of 70 degrees. The pore has been formed.
+Pleurotolysin has a beta-sheet angle of 70 degrees. The pore has been formed.

@@ -1,0 +1,3 @@
+environment
+Action: simulate
+After simulation: RUNX1 with expression level 5 has a tumor suppressor effect of 10. | Tumor with size 0.

@@ -1,0 +1,12 @@
+In the ICU, you see: 
+	Patient Before Intervention has an ADE rate of 10.4 per 1000 patient-days.
+	Patient After Intervention has an ADE rate of 10.4 per 1000 patient-days.
+	Pharmacist
+
+Simulating the effect of pharmacist intervention...
+
+In the ICU, you see: 
+	Patient Before Intervention has an ADE rate of 10.4 per 1000 patient-days.
+	Patient After Intervention has an ADE rate of 10.4 per 1000 patient-days.
+	Pharmacist
+

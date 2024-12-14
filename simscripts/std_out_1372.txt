@@ -1,0 +1,3 @@
+Elderly Adult on Oxford Street has a lung function score of 90.
+Elderly Adult in Hyde Park has a lung function score of 105.
+Claim is Refuted: Walking in traffic areas in London did not improve lung function in elderly adults.

@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Amitriptyline has an effectiveness of 22.4%.
+	Placebo has an effectiveness of 21.9%.
+
+Amitriptyline effectiveness evaluation: Refuted

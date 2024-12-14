@@ -1,0 +1,5 @@
+In the environment, you see: 
+	CCL19 is a ligand for CCR7.
+	CCL21 is a ligand for CCR7.
+	CCR7
+

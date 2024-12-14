@@ -1,0 +1,13 @@
+In the environment, you see: 
+	VgrG Spike
+	Target Cell
+
+Action: look
+In the environment, you see: 
+	VgrG Spike
+	Target Cell
+
+
+Action: puncture target cell
+The target cell has been punctured.
+

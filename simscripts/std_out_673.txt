@@ -1,0 +1,13 @@
+In the environment, you see: 
+	LDL Cholesterol with level 6 and causal role: True.
+	Cardiovascular Disease has developed: False.
+
+Action: check cholesterol
+In the environment, you see: 
+	LDL Cholesterol with level 6 and causal role: True.
+	Cardiovascular Disease has developed: False.
+
+
+Action: develop disease
+Cardiovascular Disease has developed: True.
+

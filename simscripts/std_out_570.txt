@@ -1,0 +1,6 @@
+In the breast_cancer_environment, you see: 
+	normal_myoepithelial_cell
+	fibroblast
+	ductal_carcinoma_in_situ
+
+Claim Supported: Loss of myoepithelial cells promotes transition to invasive carcinoma.

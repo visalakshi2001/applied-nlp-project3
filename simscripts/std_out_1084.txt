@@ -1,0 +1,4 @@
+In the environment, you see: 
+	Patient 1, age 70, taking other with stroke risk of 1.37.
+	Patient 2, age 75, taking SSRI with stroke risk of 1.00.
+

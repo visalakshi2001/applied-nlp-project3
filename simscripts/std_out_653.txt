@@ -1,0 +1,35 @@
+In the environment, you see: 
+	Interleukin-18
+	Atherosclerosis
+
+Action: tick
+In the environment, you see: 
+	Interleukin-18
+	Atherosclerosis
+
+
+Action: tick
+In the environment, you see: 
+	Interleukin-18
+	Atherosclerosis
+
+
+Action: tick
+In the environment, you see: 
+	Interleukin-18
+	Atherosclerosis
+
+
+Action: tick
+In the environment, you see: 
+	Interleukin-18
+	Atherosclerosis
+
+
+Action: tick
+In the environment, you see: 
+	Interleukin-18
+	Atherosclerosis
+
+
+Claim Supported: Interleukin-18 plays an important role in the pathogenesis of atherosclerosis.

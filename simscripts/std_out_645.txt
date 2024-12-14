@@ -1,0 +1,16 @@
+In the environment, you see: 
+	Folic Acid intake is 10 and homocysteine level is 0.
+	Vitamin B6 intake is 8 and homocysteine level is 0.
+
+Action: increase intake of Folic Acid
+You increase the intake of Folic Acid by 2.
+
+Action: increase intake of Vitamin B6
+You increase the intake of Vitamin B6 by 2.
+
+Action: look
+In the environment, you see: 
+	Folic Acid intake is 12 and homocysteine level is 7.
+	Vitamin B6 intake is 10 and homocysteine level is 5.
+
+

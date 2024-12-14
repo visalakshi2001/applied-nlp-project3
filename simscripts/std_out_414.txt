@@ -1,0 +1,4 @@
+In the environment, you see: 
+	Carrier1 is a carrier with 40 reproductive years and a dementia risk of 1.00.
+	NonCarrier1 is a non-carrier with 30 reproductive years and a dementia risk of 1.00.
+

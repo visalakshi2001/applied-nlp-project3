@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A ApoE4 Neuron neuron with ApoE4 type, tau phosphorylation level is 0, GABAergic degeneration is absent.
+
+Action: look
+In the environment, you see: 
+	A ApoE4 Neuron neuron with ApoE4 type, tau phosphorylation level is 0, GABAergic degeneration is absent.
+
+
+Action: convert ApoE4 Neuron to ApoE3
+You converted ApoE4 Neuron to ApoE3.
+

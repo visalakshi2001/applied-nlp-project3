@@ -1,0 +1,12 @@
+In the environment, you see: 
+	MafA has 0 phosphorylations and 0 ubiquitinations.
+
+Action: phosphorylate MafA
+You phosphorylate MafA.
+
+Action: look
+In the environment, you see: 
+	MafA has 1 phosphorylations and 2 ubiquitinations.
+
+
+Claim Refuted: MafA phosphorylation does not decrease its ubiquitination.

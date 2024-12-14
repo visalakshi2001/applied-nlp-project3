@@ -1,0 +1,10 @@
+T Cell Environment
+Action: look
+T Cell Environment
+
+Action: trigger T Cell Receptor
+You triggered the T Cell Receptor.
+
+Action: check immunologic synapse
+The immunologic synapse is formed.
+

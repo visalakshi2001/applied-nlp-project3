@@ -1,0 +1,10 @@
+In the environment, you see: 
+	A neutrophil_1 is currently not polarized.
+	Ly49Q
+
+After simulation tick:
+In the environment, you see: 
+	A neutrophil_1 is currently not polarized.
+	Ly49Q
+
+Claim verification result: Supported

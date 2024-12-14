@@ -1,0 +1,29 @@
+In the environment, you see: 
+	A mouse named Mouse_with_FGF21 with FGF21 present: True. Current lifespan: 100 days.
+	A mouse named Mouse_without_FGF21 with FGF21 present: False. Current lifespan: 100 days.
+
+In the environment, you see: 
+	A mouse named Mouse_with_FGF21 with FGF21 present: True. Current lifespan: 100 days.
+	A mouse named Mouse_without_FGF21 with FGF21 present: False. Current lifespan: 100 days.
+
+
+In the environment, you see: 
+	A mouse named Mouse_with_FGF21 with FGF21 present: True. Current lifespan: 100 days.
+	A mouse named Mouse_without_FGF21 with FGF21 present: False. Current lifespan: 90 days.
+
+
+In the environment, you see: 
+	A mouse named Mouse_with_FGF21 with FGF21 present: True. Current lifespan: 100 days.
+	A mouse named Mouse_without_FGF21 with FGF21 present: False. Current lifespan: 80 days.
+
+
+In the environment, you see: 
+	A mouse named Mouse_with_FGF21 with FGF21 present: True. Current lifespan: 100 days.
+	A mouse named Mouse_without_FGF21 with FGF21 present: False. Current lifespan: 70 days.
+
+
+In the environment, you see: 
+	A mouse named Mouse_with_FGF21 with FGF21 present: True. Current lifespan: 100 days.
+	A mouse named Mouse_without_FGF21 with FGF21 present: False. Current lifespan: 60 days.
+
+

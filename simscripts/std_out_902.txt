@@ -1,0 +1,8 @@
+Initial State:
+A monocyte_1 with PD-1 expression level 0 and IL-10 production level 0.
+
+Triggering PD-1 on monocyte...
+After Triggering PD-1:
+A monocyte_1 with PD-1 expression level 1 and IL-10 production level 5.
+
+Claim Supported: PD-1 triggering on monocytes enhances IL-10 production by monocytes.

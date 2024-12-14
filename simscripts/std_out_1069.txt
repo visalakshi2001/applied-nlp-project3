@@ -1,0 +1,11 @@
+rehabilitation environment
+Action: apply specific exercise
+rehabilitation environment
+
+Action: apply general exercise
+rehabilitation environment
+
+Action: look
+rehabilitation environment
+
+Claim Supported: Scapular stabilizer exercises are more effective.

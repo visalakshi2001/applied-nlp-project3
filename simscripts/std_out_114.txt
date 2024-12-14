@@ -1,0 +1,15 @@
+In the office environment, you see: 
+	Anthrax Spore - Dispersed: False, Reaerosolized: False
+
+Action: disperse anthrax spore
+You dispersed the Anthrax Spore.
+
+Action: reaerosolize anthrax spore
+The Anthrax Spore has been reaerosolized.
+
+Action: look
+In the office environment, you see: 
+	Anthrax Spore - Dispersed: True, Reaerosolized: True
+
+
+Claim Supported: Anthrax spores are very difficult to dispose once they are dispersed.

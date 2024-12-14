@@ -1,0 +1,11 @@
+In the nervous_system, you see: 
+	A myelinated_axon_1 with action potential propagation status: False.
+
+Action: look
+In the nervous_system, you see: 
+	A myelinated_axon_1 with action potential propagation status: False.
+
+
+Action: propagate action potential in myelinated_axon_1
+You propagate action potential in myelinated_axon_1.
+

@@ -1,0 +1,15 @@
+In the environment, you see: 
+	Low Ovarian Reserve
+	Normal Ovarian Reserve
+	Outcome Low Reserve
+	Outcome Normal Reserve
+
+Action: look
+In the environment, you see: 
+	Low Ovarian Reserve
+	Normal Ovarian Reserve
+	Outcome Low Reserve
+	Outcome Normal Reserve
+
+
+The claim is refuted: Diminished ovarian reserve is not a reliable indicator of infertility in a non-infertile population.

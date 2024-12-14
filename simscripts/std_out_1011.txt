@@ -1,0 +1,7 @@
+In the environment, you see: 
+	Patient 1 has a thyroid volume of 73 ml after treatment.
+
+In the environment, you see: 
+	Patient 1 has a thyroid volume of 29.200000000000003 ml after treatment.
+
+Claim Refuted: Radioiodine treatment decreases thyroid volume.

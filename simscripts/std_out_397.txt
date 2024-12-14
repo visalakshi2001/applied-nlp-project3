@@ -1,0 +1,10 @@
+In the environment, you see: 
+	Woman 1 has a healthy lifestyle score of 5 and a cancer mortality rate of 1.00.
+	Woman 2 has a healthy lifestyle score of 0 and a cancer mortality rate of 1.00.
+
+Action: look
+In the environment, you see: 
+	Woman 1 has a healthy lifestyle score of 5 and a cancer mortality rate of 1.00.
+	Woman 2 has a healthy lifestyle score of 0 and a cancer mortality rate of 1.00.
+
+

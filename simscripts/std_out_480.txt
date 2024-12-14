@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A mouse model named Mouse_with_Gpr124 with Gpr124 active, BBB is intact.
+	A mouse model named Mouse_without_Gpr124 with Gpr124 knockout, BBB is disrupted.
+

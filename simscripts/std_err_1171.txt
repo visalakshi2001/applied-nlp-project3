@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1171.py", line 98, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1171.py", line 93, in main
+    obs = simulation.step(action)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1171.py", line 76, in step
+    epithelial_cell.tick(nemo.properties["ripk1_inhibited"])
+                         ^^^^
+UnboundLocalError: cannot access local variable 'nemo' where it is not associated with a value

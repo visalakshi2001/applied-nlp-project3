@@ -1,0 +1,17 @@
+In the cell environment, you see: 
+	microtubule_1
+	adhesion_site_1
+
+Action: deliver MMPs
+You deliver MMPs from microtubule_1.
+
+Action: disassemble adhesion site
+You disassemble adhesion_site_1.
+
+Action: look
+In the cell environment, you see: 
+	microtubule_1
+	adhesion_site_1
+
+
+Claim Supported: The microtubule-dependent delivery and secretion of matrix metalloproteases (MMPs) is partially responsible for the disassembly of adhesion sites.

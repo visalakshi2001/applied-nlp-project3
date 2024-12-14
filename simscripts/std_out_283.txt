@@ -1,0 +1,2 @@
+Diabetes Risk Assessment
+Supported: Greater consumption of specific whole fruits is associated with a lower risk of type 2 diabetes.

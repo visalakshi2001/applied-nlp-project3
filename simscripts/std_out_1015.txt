@@ -1,0 +1,95 @@
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 30 days.
+	A treated_fly with a current lifespan of 30 days.
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 29 days.
+	A treated_fly with a current lifespan of 39 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 28 days.
+	A treated_fly with a current lifespan of 48 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 27 days.
+	A treated_fly with a current lifespan of 57 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 26 days.
+	A treated_fly with a current lifespan of 66 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 25 days.
+	A treated_fly with a current lifespan of 75 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 24 days.
+	A treated_fly with a current lifespan of 84 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 23 days.
+	A treated_fly with a current lifespan of 93 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 22 days.
+	A treated_fly with a current lifespan of 102 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 21 days.
+	A treated_fly with a current lifespan of 111 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 20 days.
+	A treated_fly with a current lifespan of 120 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 19 days.
+	A treated_fly with a current lifespan of 129 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 18 days.
+	A treated_fly with a current lifespan of 138 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 17 days.
+	A treated_fly with a current lifespan of 147 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 16 days.
+	A treated_fly with a current lifespan of 156 days.
+
+
+Action: tick
+In the environment, you see: 
+	A untreated_fly with a current lifespan of 15 days.
+	A treated_fly with a current lifespan of 165 days.
+
+
+Claim Supported: Rapamycin delays aging in fruit flies.

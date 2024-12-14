@@ -1,0 +1,9 @@
+In the environment, you see: 
+	CKD Patient with folic acid dosage: 40mg, vitamin B12 dosage: 2mg, homocysteine level: 24.0, mortality rate: 0.
+
+Action: look
+In the environment, you see: 
+	CKD Patient with folic acid dosage: 40mg, vitamin B12 dosage: 2mg, homocysteine level: 24.0, mortality rate: 0.
+
+
+Claim is supported: 40mg/day dosage of folic acid and 2mg/day dosage of vitamin B12 does not affect CKD progression.

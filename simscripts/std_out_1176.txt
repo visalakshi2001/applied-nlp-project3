@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A gene named PRDM1, which is a key determinant of primordial germ cells.
+	A primordial germ cell named PGC_1.
+

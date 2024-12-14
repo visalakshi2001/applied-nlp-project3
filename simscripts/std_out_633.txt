@@ -1,0 +1,11 @@
+cell_environment
+Action: apply mechanical strain to Active Cell
+Applied mechanical strain to Active Cell.
+
+Action: apply mechanical strain to Inhibited Cell
+Applied mechanical strain to Inhibited Cell.
+
+Action: look
+cell_environment
+
+Claim Supported: Inhibiting focal adhesion formation increases inflammation and fibrosis.

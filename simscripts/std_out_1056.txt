@@ -1,0 +1,3 @@
+Supported
+Rotator Cuff Patient: {'pain_level': 5, 'function_score': 24}
+General Exercise Patient: {'pain_level': 9, 'function_score': 9}

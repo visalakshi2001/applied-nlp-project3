@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1170.py", line 115, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1170.py", line 104, in main
+    simulation = Simulation()
+                 ^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1170.py", line 38, in __init__
+    self.generatePossibleActions()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1170.py", line 68, in generatePossibleActions
+    self.addAction(f"apply NEMO inhibition on Epithelial Cell 1", ["inhibit", obj, epithelial_cell])
+                                                                                   ^^^^^^^^^^^^^^^
+NameError: name 'epithelial_cell' is not defined. Did you mean: 'EpithelialCell'?

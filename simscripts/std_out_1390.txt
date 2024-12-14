@@ -1,0 +1,5 @@
+In the eukaryotic environment, you see: 
+	tRNA with mcm(5)s(2)U
+	tRNA without modification
+
+Claim Supported: mcm(5)s(2)U is required for proper decoding of NNR codons in eukaryotes.

@@ -1,0 +1,8 @@
+immune_system
+Action: simulate autoimmune effect on regulatory_T_cell
+Simulated autoimmune effects on regulatory_T_cell.
+
+Action: look
+immune_system
+
+Claim Refuted: No significant reduction in IL-2 responsiveness in regulatory T cells.

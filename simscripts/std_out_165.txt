@@ -1,0 +1,11 @@
+In the hospital, you see: 
+	Patient 1: Had bariatric surgery: True, Cancer diagnosis: False
+	Patient 2: Had bariatric surgery: False, Cancer diagnosis: False
+
+Action: look
+In the hospital, you see: 
+	Patient 1: Had bariatric surgery: True, Cancer diagnosis: False
+	Patient 2: Had bariatric surgery: False, Cancer diagnosis: False
+
+
+Claim Refuted: No association detected between bariatric surgery and cancer.

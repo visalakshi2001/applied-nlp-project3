@@ -1,0 +1,5 @@
+environment
+Action: look
+environment
+
+Claim Supported: Genetic deletion of JAM-A increases gut permeability.

@@ -1,0 +1,7 @@
+Before screening:
+community
+
+Performing screening...
+community
+
+Claim verification result: Supported

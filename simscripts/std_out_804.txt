@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Prostate Cancer Cell with N-cadherin expression level 1.00 and growth rate 1.00.
+
+Action: look
+In the environment, you see: 
+	Prostate Cancer Cell with N-cadherin expression level 1.00 and growth rate 1.00.
+
+
+Action: apply monoclonal antibody
+Applied monoclonal antibody to Prostate Cancer Cell.
+

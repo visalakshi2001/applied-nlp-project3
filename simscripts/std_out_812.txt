@@ -1,0 +1,5 @@
+environment
+Action: look
+environment
+
+Claim Supported: Mutant mice lacking SVCT2 have severely reduced ascorbic acid levels.

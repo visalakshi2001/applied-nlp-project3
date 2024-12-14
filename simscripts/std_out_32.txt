@@ -1,0 +1,11 @@
+In the vaccine adoption environment, you see: 
+	Hub Vaccine with GAVI eligibility: True, adoption time: 10.
+	Other Vaccine with GAVI eligibility: False, adoption time: 10.
+
+Action: tick
+In the vaccine adoption environment, you see: 
+	Hub Vaccine with GAVI eligibility: True, adoption time: 3.7.
+	Other Vaccine with GAVI eligibility: False, adoption time: 10.
+
+
+Supported: GAVI eligibility is associated with accelerated adoption.

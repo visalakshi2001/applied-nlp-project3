@@ -1,0 +1,16 @@
+In the body, you see: 
+A Plasmodium_falciparum at reproduction stage 1.
+
+Action: look
+In the body, you see: 
+A Plasmodium_falciparum at reproduction stage 1.
+
+
+Action: reproduce
+The parasite reproduces asexually.
+
+Action: look
+In the body, you see: 
+A Plasmodium_falciparum at reproduction stage 1.
+
+

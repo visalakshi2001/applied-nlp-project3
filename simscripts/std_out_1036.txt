@@ -1,0 +1,10 @@
+In the environment, you see: 
+	Cell with H3K9me3 with H3K9me3 level 1 and reprogramming efficiency 0.
+	Cell without H3K9me3 with H3K9me3 level 0 and reprogramming efficiency 0.
+
+Action: look
+In the environment, you see: 
+	Cell with H3K9me3 with H3K9me3 level 1 and reprogramming efficiency 0.
+	Cell without H3K9me3 with H3K9me3 level 0 and reprogramming efficiency 0.
+
+

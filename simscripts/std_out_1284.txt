@@ -1,0 +1,4 @@
+In the therapeutics_environment, you see: 
+	Therapeutic A (Accelerated Approval: True, Post-Market Events: 0)
+	Therapeutic B (Accelerated Approval: False, Post-Market Events: 0)
+

@@ -1,0 +1,6 @@
+In the immune environment, there is a cytokine with concentration 0 and two cells with densities 1 and 5.
+In the immune environment, there is a cytokine with concentration 1.0 and two cells with densities 1 and 5.
+In the immune environment, there is a cytokine with concentration 2.0 and two cells with densities 1 and 5.
+In the immune environment, there is a cytokine with concentration 3.0 and two cells with densities 1 and 5.
+In the immune environment, there is a cytokine with concentration 4.0 and two cells with densities 1 and 5.
+In the immune environment, there is a cytokine with concentration 5.0 and two cells with densities 1 and 5.

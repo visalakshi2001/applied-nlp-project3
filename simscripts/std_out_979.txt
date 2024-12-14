@@ -1,0 +1,9 @@
+In the Progerin Environment, you see: 
+	A iPSC with progerin expression level 1, aging markers: 0, dopamine-specific phenotypes: 0.
+
+Action: look
+In the Progerin Environment, you see: 
+	A iPSC with progerin expression level 1, aging markers: 0, dopamine-specific phenotypes: 0.
+
+
+Claim Supported: Progerin induces premature aging in stem cells.

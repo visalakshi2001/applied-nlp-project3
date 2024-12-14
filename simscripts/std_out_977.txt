@@ -1,0 +1,7 @@
+NSCLC Group has the following cytokine levels:
+	TNF-alpha level is 0.00 pg/mL.
+	IL-6 level is 0.00 pg/mL.
+Control Group has the following cytokine levels:
+	TNF-alpha level is 15.10 pg/mL.
+	IL-6 level is 4.10 pg/mL.
+

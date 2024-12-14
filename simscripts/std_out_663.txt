@@ -1,0 +1,4 @@
+In the atherosclerotic_lesion, you see: 
+	VSMC_with_KLF4, KLF4 active: True, transitions: ['macrophage-like', 'MSC-like'].
+	VSMC_without_KLF4, KLF4 active: False, transitions: ['none'].
+

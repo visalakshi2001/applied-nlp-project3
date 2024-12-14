@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Neuron_1: Cdk5 active: False, ATM active: False, Alive: True
+
+Action: look
+In the environment, you see: 
+	Neuron_1: Cdk5 active: False, ATM active: False, Alive: True
+
+
+Action: activate Cdk5
+Neuron_1 has activated Cdk5.
+

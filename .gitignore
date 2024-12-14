@@ -4,6 +4,8 @@ api_key.sh
 
 simsci/
 
-simscripts/
+# simscripts/
 gpt_results/
 gpt_ver_results/
+
+images/

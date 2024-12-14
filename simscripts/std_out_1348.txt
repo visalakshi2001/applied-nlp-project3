@@ -1,0 +1,3 @@
+lungIn the lung, you see:
+	A memory_CD4_T_cell_1 with inflammatory chemokines level: 10.
+

@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_647.py", line 98, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_647.py", line 83, in main
+    simulation.step("apply integrated care intervention")
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_647.py", line 69, in step
+    actionVerb = action[0]
+                 ~~~~~~^^^
+IndexError: list index out of range

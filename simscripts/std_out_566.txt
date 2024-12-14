@@ -1,0 +1,10 @@
+In the environment, you see: 
+	Yeast Cell with RNA Surveillance Active with RNA surveillance active, iron concentration: 6, sensitivity: not sensitive.
+	Yeast Cell with RNA Surveillance Inactive with RNA surveillance inactive, iron concentration: 6, sensitivity: not sensitive.
+
+Action: look
+In the environment, you see: 
+	Yeast Cell with RNA Surveillance Active with RNA surveillance active, iron concentration: 6, sensitivity: not sensitive.
+	Yeast Cell with RNA Surveillance Inactive with RNA surveillance inactive, iron concentration: 6, sensitivity: not sensitive.
+
+

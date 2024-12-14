@@ -1,0 +1,7 @@
+cell
+Action: catalyze hydroxylation with JMJD6
+JMJD6 has catalyzed hydroxylation and suppressed transcriptional activity.
+
+Action: check p53 activity
+p53 is not hydroxylated.
+

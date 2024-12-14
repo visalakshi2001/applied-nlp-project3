@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Dendritic Cell with motility level: 0 and actin rearrangement status: False.
+
+Action: activate CLEC-2 on Dendritic Cell
+CLEC-2 activated on Dendritic Cell.
+
+Action: look
+In the environment, you see: 
+	Dendritic Cell with motility level: 2 and actin rearrangement status: True.
+
+

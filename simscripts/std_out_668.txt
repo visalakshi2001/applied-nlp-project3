@@ -1,0 +1,13 @@
+In the environment, you see: 
+	A myeloid_cell with differentiation level 0 and Klf4 expression level 0.
+	Klf4
+
+Action: look
+In the environment, you see: 
+	A myeloid_cell with differentiation level 0 and Klf4 expression level 0.
+	Klf4
+
+
+Action: activate Klf4 on myeloid_cell
+Klf4 activated on myeloid_cell.
+

@@ -1,0 +1,14 @@
+In the environment, you see: 
+	M2 Macrophage
+	Brown Adipose Tissue
+
+Action: look
+In the environment, you see: 
+	M2 Macrophage
+	Brown Adipose Tissue
+
+
+Action: activate M2 macrophage
+M2 Macrophage activated. Current thermogenic activity: 10.
+
+Action: express thermogenic genes

@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_149.py", line 92, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_149.py", line 74, in main
+    simulation = Simulation()
+                 ^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_149.py", line 26, in __init__
+    self.rootObject = self._initialize_simulation()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_149.py", line 31, in _initialize_simulation
+    world = World()
+            ^^^^^
+NameError: name 'World' is not defined. Did you mean: 'world'?

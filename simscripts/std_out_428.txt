@@ -1,0 +1,13 @@
+In the cellular environment, you see: 
+	FoxO1 is a Forkhead O transcription factor involved in cellular differentiation.
+	Hematopoietic Stem Cell is a stem cell and is currently undifferentiated.
+
+Action: look
+In the cellular environment, you see: 
+	FoxO1 is a Forkhead O transcription factor involved in cellular differentiation.
+	Hematopoietic Stem Cell is a stem cell and is currently undifferentiated.
+
+
+Action: differentiate Hematopoietic Stem Cell
+Hematopoietic Stem Cell has differentiated.
+

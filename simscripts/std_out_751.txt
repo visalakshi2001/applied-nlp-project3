@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A tumor named Tumor_1, with aggressiveness level 0, MVP level 0, and miR-193a level 0.
+
+Action: increase MVP
+You increase the MVP of Tumor_1 by 1.
+
+Action: look
+In the environment, you see: 
+	A tumor named Tumor_1, with aggressiveness level 1, MVP level 1, and miR-193a level 1.
+
+

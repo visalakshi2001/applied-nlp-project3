@@ -1,0 +1,10 @@
+In the immune system environment, you see: 
+	A B cell with Egr2 active: True, proinflammatory cytokines level: 0, proliferation level: 0.
+	A T cell with Egr2 active: False, proinflammatory cytokines level: 0, proliferation level: 0.
+
+Action: look
+In the immune system environment, you see: 
+	A B cell with Egr2 active: True, proinflammatory cytokines level: 0, proliferation level: 0.
+	A T cell with Egr2 active: False, proinflammatory cytokines level: 0, proliferation level: 0.
+
+

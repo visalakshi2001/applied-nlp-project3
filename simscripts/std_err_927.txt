@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_927.py", line 57, in <module>
+    class World(Container):
+                ^^^^^^^^^
+NameError: name 'Container' is not defined

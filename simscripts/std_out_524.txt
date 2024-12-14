@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Human Subject has plasma L-carnitine level of 6 and TMAO concentration of 7. Risk factor for cardiovascular events: 0.
+
+Action: assess risk
+Human Subject has plasma L-carnitine level of 6 and TMAO concentration of 7. Risk factor for cardiovascular events: 1.

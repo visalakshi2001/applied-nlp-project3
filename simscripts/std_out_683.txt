@@ -1,0 +1,7 @@
+In the simulation, FGF21 is absent, leading to a plaque formation rate of 0.
+After tick: 0
+After tick: 0
+After tick: 0
+After tick: 0
+After tick: 0
+Claim is Refuted: Lack of FGF21 does not slow the rate of atherosclerotic plaque formation.

@@ -1,0 +1,6 @@
+In the environment, you see: 
+	AG-haESC
+	MII Oocyte
+	A Mouse that has genetic traits.
+
+Claim Supported: Live mice can be generated using AG-haESCs.

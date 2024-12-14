@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A neutrophil_1 that is not polarized.
+	Ly49Q
+
+Action: activate Ly49Q on neutrophil
+Ly49Q activated on neutrophil_1.
+In the environment, you see: 
+	A neutrophil_1 that is polarized.
+	Ly49Q
+
+

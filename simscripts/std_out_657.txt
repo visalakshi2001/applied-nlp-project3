@@ -1,0 +1,10 @@
+cell_environment
+Action: cleave membrane_protein_1
+membrane_protein_1 has been cleaved.
+
+Action: degrade membrane_protein_1
+membrane_protein_1 has been degraded.
+
+Action: look
+cell_environment
+

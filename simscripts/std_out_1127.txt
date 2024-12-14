@@ -1,0 +1,23 @@
+In the Cardiovascular Disease Risk Assessment, the following risk factors are considered:
+- Age (Risk Factor: True)
+- Ethnicity (Risk Factor: True)
+- Systolic Blood Pressure (Risk Factor: True)
+- Body Mass Index (Risk Factor: True)
+- Total Cholesterol: HDL Ratio (Risk Factor: True)
+- Smoking (Risk Factor: True)
+- Family History of Coronary Heart Disease (Risk Factor: True)
+- Type 1 Diabetes (Risk Factor: True)
+- Type 2 Diabetes (Risk Factor: True)
+- Treated Hypertension (Risk Factor: True)
+- Rheumatoid Arthritis (Risk Factor: True)
+- Atrial Fibrillation (Risk Factor: True)
+- Chronic Kidney Disease (Stage 4 or 5) (Risk Factor: True)
+- Chronic Kidney Disease (Stage 3, 4, or 5) (Risk Factor: True)
+- Migraine (Risk Factor: True)
+- Corticosteroids (Risk Factor: True)
+- Systemic Lupus Erythematosus (SLE) (Risk Factor: True)
+- Atypical Antipsychotics (Risk Factor: True)
+- Severe Mental Illness (Risk Factor: True)
+- HIV/AIDS (Risk Factor: False)
+
+Claim Verification Result: Supported

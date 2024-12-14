@@ -1,0 +1,28 @@
+In the environment, you see: 
+	A neutrophil_1 with polarization level 0 and membrane raft function level 0.
+	Ly49Q
+
+Action: activate Ly49Q
+Ly49Q is now active.
+In the environment, you see: 
+	A neutrophil_1 with polarization level 0 and membrane raft function level 0.
+	Ly49Q
+
+Action: tick
+Tick processed.
+In the environment, you see: 
+	A neutrophil_1 with polarization level 2 and membrane raft function level 1.
+	Ly49Q
+
+Action: inactivate Ly49Q
+Ly49Q is now inactive.
+In the environment, you see: 
+	A neutrophil_1 with polarization level 2 and membrane raft function level 1.
+	Ly49Q
+
+Action: tick
+Tick processed.
+In the environment, you see: 
+	A neutrophil_1 with polarization level 1 and membrane raft function level -1.
+	Ly49Q
+

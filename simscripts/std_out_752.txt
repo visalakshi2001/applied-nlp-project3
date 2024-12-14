@@ -1,0 +1,2 @@
+Cell Environment
+Supported: MVP regulates sorting of miR-193a into exosomes.

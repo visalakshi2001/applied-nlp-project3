@@ -1,0 +1,10 @@
+In the environment, you see: 
+	Aged Muscle
+		MuSC_1 - Regenerative: True
+		MuSC_2 - Regenerative: True
+	Young Muscle
+		MuSC_1 - Regenerative: True
+		MuSC_2 - Regenerative: True
+
+Claim Verification:
+Claim Refuted: Aged muscle stem cells are still regenerative.

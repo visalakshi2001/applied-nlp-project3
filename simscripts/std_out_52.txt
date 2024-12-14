@@ -1,0 +1,10 @@
+In the breast cancer environment, you see: 
+	A tumor named Tumor A with ALDH1 expression level 6 and prognosis is poor.
+	A tumor named Tumor B with ALDH1 expression level 3 and prognosis is good.
+
+Action: look
+In the breast cancer environment, you see: 
+	A tumor named Tumor A with ALDH1 expression level 6 and prognosis is poor.
+	A tumor named Tumor B with ALDH1 expression level 3 and prognosis is good.
+
+

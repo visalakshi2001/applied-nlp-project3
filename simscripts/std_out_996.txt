@@ -1,0 +1,7 @@
+Initial State:
+cell_environment
+Applying treatment:
+A HR-deficient cell 1 cell with HR deficiency: DSB accumulation is 1, checkpoint activated: True.
+A HR-deficient cell 2 cell with HR deficiency: DSB accumulation is 1, checkpoint activated: True.
+
+Claim Supported: Pyridostatin induces checkpoint activation.

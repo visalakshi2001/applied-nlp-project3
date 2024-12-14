@@ -1,0 +1,4 @@
+In the Cost Effectiveness Analysis Environment, you see: 
+	VIGOR Analysis: RCT Cost = $16000, GPRD Cost = $58000, Validity = None.
+	CLASS Analysis: RCT Cost = $20000, GPRD Cost = $58000, Validity = None.
+

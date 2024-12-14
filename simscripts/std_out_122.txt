@@ -1,0 +1,19 @@
+In the environment, you see: 
+	A bacteria_1, with resistance level 0 and usage pressure 5.
+	A bacteria_2, with resistance level 0 and usage pressure 3.
+
+Action: look
+In the environment, you see: 
+	A bacteria_1, with resistance level 0 and usage pressure 5.
+	A bacteria_2, with resistance level 0 and usage pressure 3.
+
+
+Action: tick
+Time has passed, and bacteria have adjusted to antimicrobial pressure.
+
+Action: look
+In the environment, you see: 
+	A bacteria_1, with resistance level 0.5 and usage pressure 5.
+	A bacteria_2, with resistance level 0.30000000000000004 and usage pressure 3.
+
+

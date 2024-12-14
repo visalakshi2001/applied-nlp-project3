@@ -1,0 +1,10 @@
+In the Contaminated Area, the area is currently contaminated.
+Action: look
+In the Contaminated Area, the area is currently contaminated.
+
+Action: decontaminate
+The area has been decontaminated.
+
+Action: look
+In the Contaminated Area, the area is currently decontaminated.
+

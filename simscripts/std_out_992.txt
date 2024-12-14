@@ -1,0 +1,8 @@
+environment
+Action: look
+environment
+
+Action: apply pyridostatin
+
+
+Claim Supported: Pyridostatin deregulates G2/M progression.

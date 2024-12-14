@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Nitric Oxide with concentration 0.4 micromol/L, vasospasm: False.
+	Cerebral Vasospasm, vasospasm status: False.
+
+Action: look

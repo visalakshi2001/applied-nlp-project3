@@ -1,0 +1,5 @@
+hospital
+Action: look
+hospital
+
+Claim verification result: Refuted

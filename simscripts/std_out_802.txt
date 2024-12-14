@@ -1,0 +1,13 @@
+In the environment, you see: 
+	A Prostate Cancer Cell with N-cadherin expression level 7 and metastasis level 0.
+	N-cadherin Monoclonal Antibody
+
+Action: apply antibody
+
+
+Action: look
+In the environment, you see: 
+	A Prostate Cancer Cell with N-cadherin expression level 4 and metastasis level 0.
+	N-cadherin Monoclonal Antibody
+
+

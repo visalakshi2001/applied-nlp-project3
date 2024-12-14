@@ -1,0 +1,11 @@
+In the environment, you see: 
+	induced_hepatic_stem_cell
+
+Action: look
+In the environment, you see: 
+	induced_hepatic_stem_cell
+
+
+Action: differentiate
+The induced_hepatic_stem_cell can differentiate into: hepatocytic, cholangiocytic.
+

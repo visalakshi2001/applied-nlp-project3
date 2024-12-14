@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Omnivore is a omnivore with TMAO production level: 0.
+	Vegetarian is a vegetarian with TMAO production level: 0.
+
+Claim Supported: Omnivores produce more TMAO than vegetarians.

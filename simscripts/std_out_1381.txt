@@ -1,0 +1,4 @@
+intestinal environment
+Action: tick
+After tick: YAP/TAZ with activation level: 1, Intestinal Cell is currently in regenerating state.
+

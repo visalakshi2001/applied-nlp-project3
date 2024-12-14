@@ -1,0 +1,4 @@
+IME1 expression levels:
+Normal RIM1: 120
+Mutated RIM1: 80
+Claim Supported: Mutations in RIM1 reduce levels of IME1 RNA.

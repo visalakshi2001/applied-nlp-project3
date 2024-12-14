@@ -1,0 +1,9 @@
+In the environment, you see: 
+	A mouse_with_deficiency with mast cell deficiency: True, current weight gain: 5.
+	A mouse_without_deficiency with mast cell deficiency: False, current weight gain: 10.
+
+Performing tick to simulate weight gain effects...
+In the environment, you see: 
+	A mouse_with_deficiency with mast cell deficiency: True, current weight gain: 4.
+	A mouse_without_deficiency with mast cell deficiency: False, current weight gain: 10.
+

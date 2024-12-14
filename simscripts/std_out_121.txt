@@ -1,0 +1,13 @@
+In the environment, you see: 
+	A bacteria_1, with resistance level 0 and usage pressure 0.
+	A bacteria_2, with resistance level 0 and usage pressure 0.
+
+Action: apply pressure to bacteria_1
+You apply pressure to bacteria_1.
+
+Action: look
+In the environment, you see: 
+	A bacteria_1, with resistance level 0.1 and usage pressure 1.
+	A bacteria_2, with resistance level 0.0 and usage pressure 0.
+
+

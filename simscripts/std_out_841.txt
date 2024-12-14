@@ -1,0 +1,3 @@
+Peptide A has a diabetes risk of 0.79
+Peptide B has a diabetes risk of 0.58
+Claim Supported: Natriuretic peptides protect against diabetes.

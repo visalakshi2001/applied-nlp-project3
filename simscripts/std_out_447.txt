@@ -1,0 +1,5 @@
+In the Cancer Risk Simulation Environment, you have: 
+Helicobacter pylori Infection is infected with Helicobacter pylori, cancer risk is 1.0.
+In the Cancer Risk Simulation Environment, you have: 
+Helicobacter pylori Infection is infected with Helicobacter pylori, cancer risk is 2.77.
+

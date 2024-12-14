@@ -1,0 +1,35 @@
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 0.
+	nonpregnant_woman has a sympathetic nerve activity level of 0.
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 1.
+	nonpregnant_woman has a sympathetic nerve activity level of 0.5.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 2.
+	nonpregnant_woman has a sympathetic nerve activity level of 1.0.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 3.
+	nonpregnant_woman has a sympathetic nerve activity level of 1.5.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 4.
+	nonpregnant_woman has a sympathetic nerve activity level of 2.0.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 5.
+	nonpregnant_woman has a sympathetic nerve activity level of 2.5.
+
+
+Claim Supported: Sympathetic nerve activity is elevated throughout normal pregnancy.

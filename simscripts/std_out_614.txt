@@ -1,0 +1,14 @@
+In the environment, you see: 
+	A microtubule named microtubule_1 with acetylation level 0 and transport status impaired.
+	LRRK2 protein named LRRK2_mutant with mutation status mutated.
+
+Action: look
+In the environment, you see: 
+	A microtubule named microtubule_1 with acetylation level 0 and transport status impaired.
+	LRRK2 protein named LRRK2_mutant with mutation status mutated.
+
+
+Action: increase acetylation of microtubule_1
+You increase the acetylation of microtubule_1.
+
+Claim Supported: Increased microtubule acetylation repairs interference of axonal transport.

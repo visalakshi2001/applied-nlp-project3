@@ -1,0 +1,10 @@
+environment
+Action: increase G-CSF of tumor_1
+G-CSF level increased to 5.
+
+Action: tick MDSC_1
+MDSC_1 ticked. Current infiltration: 0.
+
+Action: look
+environment
+

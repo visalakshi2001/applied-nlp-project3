@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Low DBP Patient has a diastolic pressure of 65 mm Hg. This is not associated with abdominal aortic aneurysm.
+	Normal DBP Patient has a diastolic pressure of 75 mm Hg. This is not associated with abdominal aortic aneurysm.
+	Abdominal Aortic Aneurysm
+

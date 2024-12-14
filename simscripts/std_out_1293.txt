@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Clomiphene has a risk of hypospadias of 0.
+	Hypospadias has a risk level of 0.
+
+Action: look
+In the environment, you see: 
+	Clomiphene has a risk of hypospadias of 0.
+	Hypospadias has a risk level of 0.
+
+
+Claim Supported: There is no increased risk of hypospadias with clomiphene.

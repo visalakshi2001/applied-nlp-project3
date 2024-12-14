@@ -1,0 +1,5 @@
+In the environment, you see: 
+	A embryonic macrophage, originating from embryonic.
+	A adult macrophage, originating from circulating.
+
+Claim verification result: Supported

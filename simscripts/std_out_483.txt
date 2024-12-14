@@ -1,0 +1,5 @@
+Gastric Environment
+Action: look
+Gastric Environment
+
+Action: infect epithelial cell

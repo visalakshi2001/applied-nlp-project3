@@ -1,0 +1,5 @@
+In the Medical School, you see: 
+	Student A has early performance level 0 and a misconduct risk of 0.75.
+	Student B has early performance level 1 and a misconduct risk of 0.25.
+	Student C has early performance level 2 and a misconduct risk of 0.05.
+

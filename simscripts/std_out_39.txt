@@ -1,0 +1,5 @@
+In the fertility simulation environment, you see: 
+	Woman 1 with AMH: 0.5, FSH: 9, Conception Probability: 65%.
+	Woman 2 with AMH: 1.0, FSH: 11, Conception Probability: 63%.
+	Woman 3 with AMH: 0.8, FSH: 8, Conception Probability: 62%.
+

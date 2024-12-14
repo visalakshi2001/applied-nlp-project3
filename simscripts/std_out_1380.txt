@@ -1,0 +1,7 @@
+In the environment, you see: 
+	Woman A with a birth weight of 2400g has a breast cancer risk factor of 1.2.
+	Woman B with a birth weight of 3200g has a breast cancer risk factor of 1.0.
+	Woman C with a birth weight of 2800g has a breast cancer risk factor of 1.1.
+
+Claim Verification:
+Supported: Lower birth weight is associated with higher breast cancer risk.

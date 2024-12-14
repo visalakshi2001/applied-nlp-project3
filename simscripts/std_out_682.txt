@@ -1,0 +1,29 @@
+In the environment, you see: 
+	A healthy_mouse with a lifespan of 100 days and FGF21 level of 1.
+	A fgf21_deficient_mouse with a lifespan of 100 days and FGF21 level of 0.
+
+In the environment, you see: 
+	A healthy_mouse with a lifespan of 100 days and FGF21 level of 1.
+	A fgf21_deficient_mouse with a lifespan of 100 days and FGF21 level of 0.
+
+
+In the environment, you see: 
+	A healthy_mouse with a lifespan of 100 days and FGF21 level of 1.
+	A fgf21_deficient_mouse with a lifespan of 90 days and FGF21 level of 0.
+
+
+In the environment, you see: 
+	A healthy_mouse with a lifespan of 100 days and FGF21 level of 1.
+	A fgf21_deficient_mouse with a lifespan of 80 days and FGF21 level of 0.
+
+
+In the environment, you see: 
+	A healthy_mouse with a lifespan of 100 days and FGF21 level of 1.
+	A fgf21_deficient_mouse with a lifespan of 70 days and FGF21 level of 0.
+
+
+In the environment, you see: 
+	A healthy_mouse with a lifespan of 100 days and FGF21 level of 1.
+	A fgf21_deficient_mouse with a lifespan of 60 days and FGF21 level of 0.
+
+

@@ -1,0 +1,16 @@
+In the environment, you see: 
+	A BCell_1 with EBI2 expression level 2 at position 0.
+	A BCell_2 with EBI2 expression level 1 at position 0.
+
+Action: look
+In the environment, you see: 
+	A BCell_1 with EBI2 expression level 2 at position 0.
+	A BCell_2 with EBI2 expression level 1 at position 0.
+
+
+Action: migrate BCell_1
+BCell_1 has migrated to position 2.
+
+Action: migrate BCell_2
+BCell_2 has migrated to position 1.
+

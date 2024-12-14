@@ -1,0 +1,28 @@
+In the environment, you see: 
+	A tumor cell named Tumor Cell 1, Notch signaling is inactive.
+	A stromal cell named Stromal Cell 1, Notch signaling is inactive.
+
+Action: look
+In the environment, you see: 
+	A tumor cell named Tumor Cell 1, Notch signaling is inactive.
+	A stromal cell named Stromal Cell 1, Notch signaling is inactive.
+
+
+Action: activate Notch signaling in Tumor Cell 1
+Notch signaling activated in Tumor Cell 1.
+
+Action: look
+In the environment, you see: 
+	A tumor cell named Tumor Cell 1, Notch signaling is active.
+	A stromal cell named Stromal Cell 1, Notch signaling is inactive.
+
+
+Action: activate Notch signaling in Stromal Cell 1
+Notch signaling activated in Stromal Cell 1.
+
+Action: look
+In the environment, you see: 
+	A tumor cell named Tumor Cell 1, Notch signaling is active.
+	A stromal cell named Stromal Cell 1, Notch signaling is active.
+
+

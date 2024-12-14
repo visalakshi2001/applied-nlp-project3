@@ -1,0 +1,12 @@
+In the environment, you see: 
+	A treatment named EGFR TKI AZD9291.
+	A mutation named C797S with resistance status: True.
+	A mutation named T790M with resistance status: False.
+
+Action: look
+In the environment, you see: 
+	A treatment named EGFR TKI AZD9291.
+	A mutation named C797S with resistance status: True.
+	A mutation named T790M with resistance status: False.
+
+

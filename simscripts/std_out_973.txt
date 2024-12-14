@@ -1,0 +1,2 @@
+Cervical Screening Environment
+Result: Supported - HPV screening has higher sensitivity.

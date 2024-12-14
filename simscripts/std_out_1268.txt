@@ -1,0 +1,17 @@
+Population
+Action: increase consumption
+Population
+
+Action: increase consumption
+Population
+
+Action: look
+Population
+
+Action: decrease consumption
+Population
+
+Action: look
+Population
+
+Claim Supported: The risk of cancer rises with level of alcohol consumption.

@@ -1,0 +1,76 @@
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.00
+	Zopiclone treatment effectiveness: 0.00
+	Placebo treatment effectiveness: 0.00
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.10
+	Zopiclone treatment effectiveness: -0.05
+	Placebo treatment effectiveness: 0.01
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.20
+	Zopiclone treatment effectiveness: -0.10
+	Placebo treatment effectiveness: 0.02
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.30
+	Zopiclone treatment effectiveness: -0.15
+	Placebo treatment effectiveness: 0.03
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.40
+	Zopiclone treatment effectiveness: -0.20
+	Placebo treatment effectiveness: 0.04
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.50
+	Zopiclone treatment effectiveness: -0.25
+	Placebo treatment effectiveness: 0.05
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.60
+	Zopiclone treatment effectiveness: -0.30
+	Placebo treatment effectiveness: 0.06
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.70
+	Zopiclone treatment effectiveness: -0.35
+	Placebo treatment effectiveness: 0.07
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.80
+	Zopiclone treatment effectiveness: -0.40
+	Placebo treatment effectiveness: 0.08
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 0.90
+	Zopiclone treatment effectiveness: -0.45
+	Placebo treatment effectiveness: 0.09
+
+
+Action: tick
+In the treatment environment, you see: 
+	CBT treatment effectiveness: 1.00
+	Zopiclone treatment effectiveness: -0.50
+	Placebo treatment effectiveness: 0.10
+
+
+Claim is Refuted: CBT is an effective treatment for insomnia.

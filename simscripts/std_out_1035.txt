@@ -1,0 +1,23 @@
+In the environment, you see: 
+	In the SCNT Experiment, the current reprogramming efficiency is: 0
+
+In the environment, you see: 
+	In the SCNT Experiment, the current reprogramming efficiency is: 0
+
+
+In the environment, you see: 
+	In the SCNT Experiment, the current reprogramming efficiency is: 0
+
+
+In the environment, you see: 
+	In the SCNT Experiment, the current reprogramming efficiency is: 2
+
+
+In the environment, you see: 
+	In the SCNT Experiment, the current reprogramming efficiency is: 6
+
+
+In the environment, you see: 
+	In the SCNT Experiment, the current reprogramming efficiency is: 12
+
+

@@ -1,0 +1,30 @@
+In the simulation environment, you see: 
+	LDL Receptor
+	Lp(a)
+
+Action: tick
+In the simulation environment, you see: 
+	LDL Receptor
+	Lp(a)
+
+Action: tick
+In the simulation environment, you see: 
+	LDL Receptor
+	Lp(a)
+
+Action: tick
+In the simulation environment, you see: 
+	LDL Receptor
+	Lp(a)
+
+Action: tick
+In the simulation environment, you see: 
+	LDL Receptor
+	Lp(a)
+
+Action: tick
+In the simulation environment, you see: 
+	LDL Receptor
+	Lp(a)
+
+Claim Supported: Increased LDL receptors play a role in the reduction of plasma Lp(a).

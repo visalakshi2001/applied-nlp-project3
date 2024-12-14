@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_156.py", line 175, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_156.py", line 171, in main
+    obs = simulation.step("tick")
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_156.py", line 163, in step
+    obj.tick()
+TypeError: CancerCell.tick() missing 2 required positional arguments: 'bcl2' and 'cmyc'

@@ -1,0 +1,9 @@
+In the environment, you see: 
+	Participant 1 is a quit with a lung cancer risk represented by HR: 1.0.
+	Participant 2 is a heavy smoker with a lung cancer risk represented by HR: 2.0.
+
+Simulating quitting smoking...
+In the environment, you see: 
+	Participant 1 is a quit with a lung cancer risk represented by HR: 0.5.
+	Participant 2 is a heavy smoker with a lung cancer risk represented by HR: 2.0.
+

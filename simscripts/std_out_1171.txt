@@ -1,0 +1,5 @@
+intestinal_environment
+Action: inhibit RIPK1
+NEMO has inhibited RIPK1 activity.Epithelial_Cell_1 is alive.
+
+Action: look

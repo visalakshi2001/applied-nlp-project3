@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Infant with LCPUFA has atopic eczema: True.
+	Infant without LCPUFA has atopic eczema: True.
+
+Action: tick

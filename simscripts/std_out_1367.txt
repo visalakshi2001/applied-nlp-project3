@@ -1,0 +1,10 @@
+environment
+Action: look
+environment
+
+Action: check birth weight with low vitamin D
+With low Vitamin D levels, the birth weight is likely low.
+
+Action: check birth weight with normal vitamin D
+With normal Vitamin D levels, the birth weight is likely normal.
+

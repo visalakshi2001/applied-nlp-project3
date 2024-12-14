@@ -1,0 +1,4 @@
+In the environment, you see: 
+	pediatric_hodgkin_lymphoma_patient
+
+Supported: The claim is verified as true.

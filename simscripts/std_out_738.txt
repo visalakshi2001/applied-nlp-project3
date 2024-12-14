@@ -1,0 +1,6 @@
+In the cell_environment, you see: 
+	MICAL: {'hydrogen_peroxide': 0, 'CRMP2_oxidized': True}
+	CRMP2: {'is_oxidized': True, 'is_phosphorylated': True}
+	Actin Dynamics: {'dynamics_regulated': True}
+
+Claim Supported: MICAL redox enzymes regulate actin dynamics.

@@ -1,0 +1,8 @@
+In the environment, you see: 
+	Patient with Panic Anxiety has Hypocretin with CSF hypocretin level: 10
+
+Action: look
+In the environment, you see: 
+	Patient with Panic Anxiety has Hypocretin with CSF hypocretin level: 10
+
+

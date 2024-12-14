@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Woman A has 40 reproductive years and a dementia risk of 0.
+	Woman B has 30 reproductive years and a dementia risk of 0.
+	Woman C has 35 reproductive years and a dementia risk of 0.
+

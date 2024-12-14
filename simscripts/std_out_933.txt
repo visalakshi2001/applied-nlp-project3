@@ -1,0 +1,5 @@
+Pediatric SCD Patient has used 0 mg/kg of morphine and has a pain score of 0.
+After inhaling iNO for 4 hours:
+Pediatric SCD Patient has used 0.32 mg/kg of morphine and has a pain score of 0.
+After inhaling iNO for 6 hours:
+Pediatric SCD Patient has used 0.61 mg/kg of morphine and has a pain score of 0.

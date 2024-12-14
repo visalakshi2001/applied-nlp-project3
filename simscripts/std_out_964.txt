@@ -1,0 +1,35 @@
+In the environment, you see: 
+	A pre-mRNA named associated_pre_mRNA, associated: True, stability: 0.
+	A pre-mRNA named unassociated_pre_mRNA, associated: False, stability: 0.
+
+Ticking...
+In the environment, you see: 
+	A pre-mRNA named associated_pre_mRNA, associated: True, stability: 1.
+	A pre-mRNA named unassociated_pre_mRNA, associated: False, stability: -1.
+
+
+Ticking...
+In the environment, you see: 
+	A pre-mRNA named associated_pre_mRNA, associated: True, stability: 2.
+	A pre-mRNA named unassociated_pre_mRNA, associated: False, stability: -2.
+
+
+Ticking...
+In the environment, you see: 
+	A pre-mRNA named associated_pre_mRNA, associated: True, stability: 3.
+	A pre-mRNA named unassociated_pre_mRNA, associated: False, stability: -3.
+
+
+Ticking...
+In the environment, you see: 
+	A pre-mRNA named associated_pre_mRNA, associated: True, stability: 4.
+	A pre-mRNA named unassociated_pre_mRNA, associated: False, stability: -4.
+
+
+Ticking...
+In the environment, you see: 
+	A pre-mRNA named associated_pre_mRNA, associated: True, stability: 5.
+	A pre-mRNA named unassociated_pre_mRNA, associated: False, stability: -5.
+
+
+Claim Supported: Associated pre-mRNAs are more stable than unassociated splicing substrates.

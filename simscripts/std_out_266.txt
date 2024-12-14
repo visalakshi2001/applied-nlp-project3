@@ -1,0 +1,5 @@
+Phase: G1, Cnn1 Activity Level: 1
+Phase: S, Cnn1 Activity Level: 2
+Phase: G2, Cnn1 Activity Level: 3
+Phase: M, Cnn1 Activity Level: 5
+Claim Supported: Cnn1 recruitment varies with cell cycle timing.

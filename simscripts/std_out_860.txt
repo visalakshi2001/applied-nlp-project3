@@ -1,0 +1,9 @@
+In the environment, you see: 
+	A granuloma named granuloma_1, TNF present: False, formed: False, macrophage health: 100.
+
+Action: look
+In the environment, you see: 
+	A granuloma named granuloma_1, TNF present: False, formed: False, macrophage health: 100.
+
+
+Claim Supported: Normal granulomas form in the absence of TNF.

@@ -1,0 +1,17 @@
+In the inflammation environment, you see: 
+	NLRP3 Inflammasome
+	Inflammation Level
+	Macrophage
+
+Action: activate inflammasome
+NLRP3 inflammasome activated. Inflammation level increased.
+
+Action: check inflammation level
+NLRP3 inflammasome is activated. Inflammation level is 1.
+
+Action: deactivate inflammasome
+NLRP3 inflammasome deactivated. Inflammation level decreased.
+
+Action: check inflammation level
+NLRP3 inflammasome is deactivated. Inflammation level is 0.
+

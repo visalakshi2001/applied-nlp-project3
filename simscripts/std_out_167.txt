@@ -1,0 +1,7 @@
+hospital
+Action: look
+hospital
+
+Action: perform bariatric surgery on Patient A
+Patient A has undergone bariatric surgery.
+

@@ -1,0 +1,10 @@
+In the cellular environment, you see: 
+	A NIH 3T3 Cell 1, with a circadian cycle time of 24 hours, divides at 0 hours.
+	A NIH 3T3 Cell 2, with a circadian cycle time of 24 hours, divides at 0 hours.
+
+Action: look
+In the cellular environment, you see: 
+	A NIH 3T3 Cell 1, with a circadian cycle time of 24 hours, divides at 0 hours.
+	A NIH 3T3 Cell 2, with a circadian cycle time of 24 hours, divides at 0 hours.
+
+

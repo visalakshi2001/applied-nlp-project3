@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, obesity status: False, insulin resistance status: False.
+	A Mouse without SIRT1 with SIRT1 absent, obesity status: False, insulin resistance status: False.
+
+Action: look
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, obesity status: False, insulin resistance status: False.
+	A Mouse without SIRT1 with SIRT1 absent, obesity status: False, insulin resistance status: False.
+
+
+Claim is Refuted: Mice lacking Sirt1 in Sf1-expressing neurons are NOT immune to diet-induced obesity and insulin resistance.

@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Live Birth has a suicide rate of 5.9 per 100,000.
+	Miscarriage has a suicide rate of 18.1 per 100,000.
+
+Claim evaluation result: Supported

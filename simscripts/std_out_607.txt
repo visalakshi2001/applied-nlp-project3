@@ -1,0 +1,10 @@
+In the environment, you see: 
+	Patient 1 has a diastolic blood pressure of 85 mm Hg. This is not associated with abdominal aortic aneurysm.
+	Patient 2 has a diastolic blood pressure of 75 mm Hg. This is not associated with abdominal aortic aneurysm.
+
+Action: look
+In the environment, you see: 
+	Patient 1 has a diastolic blood pressure of 85 mm Hg. This is not associated with abdominal aortic aneurysm.
+	Patient 2 has a diastolic blood pressure of 75 mm Hg. This is not associated with abdominal aortic aneurysm.
+
+

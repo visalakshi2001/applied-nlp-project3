@@ -1,0 +1,10 @@
+In the immune environment, you see: 
+	A monocyte_1 with IL-10 production level 0 and CD4+ T cell response level 100.
+	A CD4_T_cell_1 with response level 100.
+
+Action: produce IL-10
+In the immune environment, you see: 
+	A monocyte_1 with IL-10 production level 2 and CD4+ T cell response level 90.
+	A CD4_T_cell_1 with response level 100.
+
+

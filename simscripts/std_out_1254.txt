@@ -1,0 +1,24 @@
+Initial State:
+In the Neural Progenitor Environment, you see: 
+	A Primate neural progenitor with a proliferation rate of 5.
+	A Rodent neural progenitor with a proliferation rate of 2.
+
+After tick:
+In the Neural Progenitor Environment, you see: 
+	A Primate neural progenitor with a proliferation rate of 6.
+	A Rodent neural progenitor with a proliferation rate of 3.
+
+
+After tick:
+In the Neural Progenitor Environment, you see: 
+	A Primate neural progenitor with a proliferation rate of 7.
+	A Rodent neural progenitor with a proliferation rate of 4.
+
+
+After tick:
+In the Neural Progenitor Environment, you see: 
+	A Primate neural progenitor with a proliferation rate of 8.
+	A Rodent neural progenitor with a proliferation rate of 5.
+
+
+Claim Supported: The proliferative capacity of neural progenitors differs across species.

@@ -1,0 +1,9 @@
+In the environment, you see: 
+	Alzheimer's Patient has a cognitive score of 0.
+
+Action: participate in physical activity
+Alzheimer's Patient participated in physical activity for 6 months.
+In the environment, you see: 
+	Alzheimer's Patient has a cognitive score of 0.73.
+
+Claim Refuted: No improvement in cognitive function.

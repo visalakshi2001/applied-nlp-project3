@@ -1,0 +1,3 @@
+A spinal neuron neuron with PKG-I present: False, LTP expressed: False
+A spinal neuron neuron with PKG-I present: True, LTP expressed: True
+Claim Supported: PKG-I plays an essential role in expression of spinal long term potentiation.

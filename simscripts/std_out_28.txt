@@ -1,0 +1,16 @@
+In the SLE Environment, you see: 
+	A Th2 Cell with an activity level of 3 and disease activity level of 10.
+	A Basophil with an activation level of 4.
+
+Action: increase Th2 activity
+You increase the Th2 Cell.
+
+Action: increase basophil activation
+You increase the Basophil.
+
+Action: look
+In the SLE Environment, you see: 
+	A Th2 Cell with an activity level of 4 and disease activity level of 6.
+	A Basophil with an activation level of 5.
+
+

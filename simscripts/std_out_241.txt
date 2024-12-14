@@ -1,0 +1,34 @@
+In the NIH 3T3 Cell Environment, you see: 
+	NIH 3T3 Cell 1: Circadian cycle time is 24 hours, next division time is in 0 hours, last division was at 0 hours.
+	NIH 3T3 Cell 2: Circadian cycle time is 24 hours, next division time is in 0 hours, last division was at 0 hours.
+
+Ticking...
+In the NIH 3T3 Cell Environment, you see: 
+	NIH 3T3 Cell 1: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+	NIH 3T3 Cell 2: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+
+
+Ticking...
+In the NIH 3T3 Cell Environment, you see: 
+	NIH 3T3 Cell 1: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+	NIH 3T3 Cell 2: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+
+
+Ticking...
+In the NIH 3T3 Cell Environment, you see: 
+	NIH 3T3 Cell 1: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+	NIH 3T3 Cell 2: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+
+
+Ticking...
+In the NIH 3T3 Cell Environment, you see: 
+	NIH 3T3 Cell 1: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+	NIH 3T3 Cell 2: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+
+
+Ticking...
+In the NIH 3T3 Cell Environment, you see: 
+	NIH 3T3 Cell 1: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+	NIH 3T3 Cell 2: Circadian cycle time is 24 hours, next division time is in 5 hours, last division was at 0 hours.
+
+

@@ -1,0 +1,9 @@
+In the environment, you see: 
+	SIV Infection
+
+Action: look
+In the environment, you see: 
+	SIV Infection
+Salmonella Typhimurium is not disseminating due to Th17 cell presence.
+
+

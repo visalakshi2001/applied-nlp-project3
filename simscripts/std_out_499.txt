@@ -1,0 +1,2 @@
+Mean HbA1c for SCT participants: 5.69
+Mean HbA1c for non-SCT participants: 5.98

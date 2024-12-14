@@ -1,0 +1,9 @@
+In the cell environment, you see: 
+	Cell 1 contains Forkhead O has an apoptosis effect level of 0.
+
+Action: induce apoptosis
+Apoptosis induced in Cell 1.
+
+In the cell environment, you see: 
+	Cell 1 contains Forkhead O has an apoptosis effect level of 1.
+

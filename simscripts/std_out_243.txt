@@ -1,0 +1,12 @@
+In the environment, you see: 
+	A embryonic_stem_cell with replication timing 0, transcription level 0, and nuclear position 0.
+
+Action: differentiate embryonic_stem_cell
+embryonic_stem_cell has differentiated.
+
+Action: look
+In the environment, you see: 
+	A embryonic_stem_cell with replication timing 1, transcription level 1, and nuclear position 1.
+
+
+Claim Supported: Cellular differentiation of embryonic stem cells is accompanied by changes in replication timing and transcription.

@@ -1,0 +1,5 @@
+Vitamin D Level: 5 ng/mL, Calcium Intake: 700 mg/d, PTH Level: 1
+Vitamin D Level: 5 ng/mL, Calcium Intake: 1200 mg/d, PTH Level: 0.5
+Vitamin D Level: 20 ng/mL, Calcium Intake: 700 mg/d, PTH Level: 0
+Vitamin D Level: 20 ng/mL, Calcium Intake: 1200 mg/d, PTH Level: 0
+Claim Supported: Vitamin D is an important factor in the relationship between calcium and parathyroid hormone.

@@ -1,0 +1,6 @@
+Before intervention:
+In the healthcare environment, you see: 
+	Patient 1 has a disability score of 5 and a quality of life score of 2.
+	Patient 2 has a disability score of 4 and a quality of life score of 3.
+
+Applying integrated care intervention...

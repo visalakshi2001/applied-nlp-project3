@@ -1,0 +1,22 @@
+In the cell environment, you see: 
+	LARG is not activated.
+	GEF-H1 is not activated.
+	Fibronectin-binding Integrin has no tension applied.
+
+Action: look
+In the cell environment, you see: 
+	LARG is not activated.
+	GEF-H1 is not activated.
+	Fibronectin-binding Integrin has no tension applied.
+
+
+Action: apply tension
+Tension applied to Fibronectin-binding Integrin.
+
+Action: activate LARG
+LARG activated via Src family tyrosine kinase Fyn.
+
+Action: activate GEF-H1
+GEF-H1 activated via ERK.
+
+Claim Supported: GEFs mediate RhoA activation in response to tension.

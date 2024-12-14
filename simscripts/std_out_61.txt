@@ -1,0 +1,8 @@
+In the HIV Environment, you see: 
+	Person 1, who is on ART, has an infectiveness level of 0.35.
+	Person 2, who is on ART, has an infectiveness level of 0.35.
+	Person 3, who is not on ART, has an infectiveness level of 1.0.
+
+Claim Verification:
+ART reduces infectiveness of HIV-positive people by 35% to 65% based on the simulation.
+Claim Supported.

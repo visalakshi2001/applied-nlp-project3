@@ -1,0 +1,28 @@
+In the hypothalamus, you see: 
+	A POMC Neuron with glutamate level 0 and activity 0.
+	A Astrocyte with 0 glucose transporters and 0 glutamate transporters.
+
+Action: look
+In the hypothalamus, you see: 
+	A POMC Neuron with glutamate level 0 and activity 0.
+	A Astrocyte with 0 glucose transporters and 0 glutamate transporters.
+
+
+Action: increase metabolic signal
+Increased metabolic signal. Glial cell modified transporters. Neuron glutamate level is now 1.
+
+Action: look
+In the hypothalamus, you see: 
+	A POMC Neuron with glutamate level 1 and activity 2.
+	A Astrocyte with 0 glucose transporters and 1 glutamate transporters.
+
+
+Action: decrease metabolic signal
+Decreased metabolic signal. Glial cell modified transporters. Neuron glutamate level is now 1.
+
+Action: look
+In the hypothalamus, you see: 
+	A POMC Neuron with glutamate level 1 and activity 2.
+	A Astrocyte with -1 glucose transporters and 0 glutamate transporters.
+
+

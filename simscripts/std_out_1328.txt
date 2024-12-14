@@ -1,0 +1,5 @@
+In the TB Environment, you see: 
+	Granuloma
+	Surrounding Tissue
+
+Claim Supported: Granulomas express different immune system protein signatures than the surrounding tissue.

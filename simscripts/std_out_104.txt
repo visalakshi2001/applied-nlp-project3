@@ -1,0 +1,5 @@
+In the patient Patient_1, you have:
+	Allogeneic MSC with SAEs rate of 33.3 and EEF change of 0.
+	Autologous MSC with SAEs rate of 53.3 and EEF change of 0.
+
+Supported: Allogeneic MSCs have a lower SAE rate than autologous MSCs.

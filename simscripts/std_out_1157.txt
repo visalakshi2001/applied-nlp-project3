@@ -1,0 +1,11 @@
+In the DESMOND Program Environment, you see: 
+	Participant 1: HbA1c=7.0, Blood Pressure=130, Weight=80, Blood Lipid=200.
+	Participant 2: HbA1c=7.1, Blood Pressure=132, Weight=82, Blood Lipid=202.
+
+Action: look
+In the DESMOND Program Environment, you see: 
+	Participant 1: HbA1c=7.0, Blood Pressure=130, Weight=80, Blood Lipid=200.
+	Participant 2: HbA1c=7.1, Blood Pressure=132, Weight=82, Blood Lipid=202.
+
+
+Claim Supported: The DESMOND program demonstrates no significant impact on biochemical outcomes.

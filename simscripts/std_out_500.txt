@@ -1,0 +1,11 @@
+In the study environment, you see: 
+	Participant 1: Severe Headache: True, Cognitive Impairment: False.
+	Participant 2: Severe Headache: False, Cognitive Impairment: False.
+
+Action: look
+In the study environment, you see: 
+	Participant 1: Severe Headache: True, Cognitive Impairment: False.
+	Participant 2: Severe Headache: False, Cognitive Impairment: False.
+
+
+Claim Refuted: Evidence was lacking for cognitive impairment for any headache type.

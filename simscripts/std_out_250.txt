@@ -1,0 +1,9 @@
+environment
+Action: look
+environment
+
+Action: treat with Chenodeoxycholic Acid
+Chenodeoxycholic Acid has been applied to Brown Adipose Tissue.
+
+Final activity level of BAT: 4
+Claim Supported: Chenodeoxycholic acid treatment decreases brown adipose tissue activity.

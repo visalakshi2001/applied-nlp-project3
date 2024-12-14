@@ -1,0 +1,11 @@
+In the melanoma environment, you see: 
+	A CD8 T-cell T-cell, currently exhausted.
+	Anti-CTLA-4 Treatment
+
+Action: look
+In the melanoma environment, you see: 
+	A CD8 T-cell T-cell, currently exhausted.
+	Anti-CTLA-4 Treatment
+
+
+Action: apply anti-CTLA-4 to CD8 T-cell

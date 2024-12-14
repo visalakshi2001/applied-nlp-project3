@@ -1,0 +1,10 @@
+immune system
+Action: signal TCR for T_Cell_1
+You signal TCR for T_Cell_1.
+
+Action: signal CD28 for T_Cell_1
+You signal CD28 for T_Cell_1.
+
+Action: look
+immune system
+

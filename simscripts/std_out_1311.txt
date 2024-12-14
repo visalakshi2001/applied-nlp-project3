@@ -1,0 +1,6 @@
+Initial state with HuR level 0:
+{'JUNB_translation_rate': 10, 'CTNNB1_translation_rate': 10, 'lncRNA_stability': 6}
+After increasing HuR level to 1:
+{'JUNB_translation_rate': 10, 'CTNNB1_translation_rate': 10, 'lncRNA_stability': 5}
+After decreasing HuR level to 0:
+{'JUNB_translation_rate': 10, 'CTNNB1_translation_rate': 10, 'lncRNA_stability': 6}

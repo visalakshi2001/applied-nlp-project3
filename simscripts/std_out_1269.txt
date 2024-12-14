@@ -1,0 +1,5 @@
+In the prison environment, you see: 
+	male_prisoner
+	female_prisoner
+
+Claim Refuted: The risk of female prisoners harming themselves is not ten times that of male prisoners.

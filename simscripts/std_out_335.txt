@@ -1,0 +1,19 @@
+In the endometrial environment, you see: 
+	Normal Endometrial Cell with HAND2 methylation level at 20.
+	Cancerous Endometrial Cell with HAND2 methylation level at 60.
+
+Action: look
+In the endometrial environment, you see: 
+	Normal Endometrial Cell with HAND2 methylation level at 20.
+	Cancerous Endometrial Cell with HAND2 methylation level at 60.
+
+
+Action: increase HAND2 methylation of Cancerous Endometrial Cell
+You increase the HAND2 methylation of Cancerous Endometrial Cell by 10.
+
+Action: look
+In the endometrial environment, you see: 
+	Normal Endometrial Cell with HAND2 methylation level at 20.
+	Cancerous Endometrial Cell with HAND2 methylation level at 70. This cell is cancerous.
+
+

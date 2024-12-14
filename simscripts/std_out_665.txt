@@ -1,0 +1,5 @@
+In the diseased epithelia, you see: 
+	A tumor_keratinocyte_1 with KRT17 expression level 5 and AIRE expression level 0.
+
+KRT17 expression: 5, AIRE expression: 10
+Claim verification result: Supported

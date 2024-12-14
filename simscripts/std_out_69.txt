@@ -1,0 +1,11 @@
+In the environment, you see: 
+	PPM1D with activation level 5 suppresses p53 by 0.
+	p53 has functionality level 100.
+
+Action: tick
+In the environment, you see: 
+	PPM1D with activation level 5 suppresses p53 by 10.
+	p53 has functionality level 90.
+
+
+Claim Supported: Activation of PPM1D enhances p53 function by suppressing it.

@@ -1,0 +1,22 @@
+In the environment, you see: 
+	Subject 1 - Erythrocyte count: 5.0, Hemoglobin concentration: 100 g/l
+	Subject 2 - Erythrocyte count: 3.0, Hemoglobin concentration: 100 g/l
+
+After malaria impact:
+In the environment, you see: 
+	Subject 1 - Erythrocyte count: 5.0, Hemoglobin concentration: 100 g/l
+	Subject 2 - Erythrocyte count: 3.0, Hemoglobin concentration: 100 g/l
+
+
+After malaria impact:
+In the environment, you see: 
+	Subject 1 - Erythrocyte count: 5.0, Hemoglobin concentration: 100 g/l
+	Subject 2 - Erythrocyte count: 3.0, Hemoglobin concentration: 100 g/l
+
+
+After malaria impact:
+In the environment, you see: 
+	Subject 1 - Erythrocyte count: 5.0, Hemoglobin concentration: 100 g/l
+	Subject 2 - Erythrocyte count: 3.0, Hemoglobin concentration: 100 g/l
+
+

@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Elderly Participant 1 has a lung function of 100 and pollution exposure of 0.
+	Elderly Participant 2 has a lung function of 100 and pollution exposure of 0.
+
+Claim Refuted: Walking in traffic areas does not improve lung function.

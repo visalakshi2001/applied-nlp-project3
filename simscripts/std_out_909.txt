@@ -1,0 +1,9 @@
+In the environment, you see: 
+	A knockout mouse named PGK-la with nociceptor PKG-I expression level 0.
+
+Action: look
+In the environment, you see: 
+	A knockout mouse named PGK-la with nociceptor PKG-I expression level 0.
+
+
+Claim Supported: PKG-la does not have a large impact on expression of pain hypersensitivity in PGK-la knockout mice.

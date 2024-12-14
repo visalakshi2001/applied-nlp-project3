@@ -1,0 +1,17 @@
+In the environment, you see: 
+	A reactive oxygen species named ROS_1 with damage level 0.
+	An oncogene named BCR/ABL contributing to genomic instability with level 0.
+
+Action: look
+In the environment, you see: 
+	A reactive oxygen species named ROS_1 with damage level 0.
+	An oncogene named BCR/ABL contributing to genomic instability with level 0.
+
+
+Action: tick ROS_1
+ROS_1 has been ticked, updating its properties.
+
+Action: tick BCR/ABL
+BCR/ABL has been ticked, updating its properties.
+
+Claim Supported: The removal of reactive oxygen species by activated oncogenes contributes to the increased genomic instability of leukaemia cells.

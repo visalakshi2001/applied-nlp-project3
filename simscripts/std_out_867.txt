@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Patient Patient 1, who has inflammation, has 2 T-cells.
+	Patient Patient 2, who does not have inflammation, has 1 T-cells.
+
+Claim Supported: Oat specific inflammatory cells found in oat tolerant coeliac patients.

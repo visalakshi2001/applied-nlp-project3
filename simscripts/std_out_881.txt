@@ -1,0 +1,5 @@
+In the environment, you see: 
+	A omnivore with L-carnitine intake of 5 produces TMAO: 0.
+	A vegan with L-carnitine intake of 5 produces TMAO: 0.
+
+Claim Refuted: Omnivores produce more TMAO than vegans.

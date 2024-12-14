@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_559.py", line 74, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_559.py", line 68, in main
+    simulation = Simulation()
+                 ^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_559.py", line 41, in __init__
+    self.pro_inflammatory_cells, self.anti_inflammatory_cells = self.rootObject.segregateResponses()
+                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'World' object has no attribute 'segregateResponses'

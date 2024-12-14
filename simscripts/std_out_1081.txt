@@ -1,0 +1,11 @@
+In the environment, you see: 
+	postmenopausal_woman
+
+Action: look
+In the environment, you see: 
+	postmenopausal_woman
+
+
+Action: calculate mortality risk
+Total mortality risk for the patient is 2.18.
+

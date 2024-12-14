@@ -1,0 +1,34 @@
+In the environment, you see: 
+	A tumor named glioma_tumor with size 0.
+	A20_knockdown
+
+Action: tick
+In the environment, you see: 
+	A tumor named glioma_tumor with size -1.
+	A20_knockdown
+
+
+Action: tick
+In the environment, you see: 
+	A tumor named glioma_tumor with size -4.
+	A20_knockdown
+
+
+Action: tick
+In the environment, you see: 
+	A tumor named glioma_tumor with size -9.
+	A20_knockdown
+
+
+Action: tick
+In the environment, you see: 
+	A tumor named glioma_tumor with size -16.
+	A20_knockdown
+
+
+Action: tick
+In the environment, you see: 
+	A tumor named glioma_tumor with size -25.
+	A20_knockdown
+
+

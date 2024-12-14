@@ -1,0 +1,15 @@
+hospital
+Action: perform surgery on Patient A
+Patient A underwent bariatric surgery.
+Current states:
+Patient A has a pre-operative depression level of 8 and a post-operative depression level of 4.0.
+Patient B has a pre-operative depression level of 3 and a post-operative depression level of 0.
+
+
+Action: perform surgery on Patient B
+Patient B underwent bariatric surgery.
+Current states:
+Patient A has a pre-operative depression level of 8 and a post-operative depression level of 4.0.
+Patient B has a pre-operative depression level of 3 and a post-operative depression level of 1.5.
+
+

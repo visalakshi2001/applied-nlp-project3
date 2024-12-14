@@ -1,0 +1,16 @@
+In the bone marrow environment, you see: 
+	osteocyte_1
+	HSPC_1
+	G-CSF
+
+Action: look
+In the bone marrow environment, you see: 
+	osteocyte_1
+	HSPC_1
+	G-CSF
+
+
+Action: administer G-CSF
+G-CSF administered. Osteocyte responded and HSPC is mobilized.
+
+Claim Supported: Osteocytes have an essential role in G-CSF induced HSPC mobilization.

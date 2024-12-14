@@ -1,0 +1,4 @@
+environment
+Boy mortality rate: 29 per 1000 live births.
+Girl mortality rate: 69 per 1000 live births.
+The claim is refuted: The one-child policy has not created a hospitable environment for female infants.

@@ -1,0 +1,8 @@
+Viral Environment
+Action: look
+Viral Environment
+
+Action: apply APOBEC3G effect
+APOBEC3G applied its effect on Viral DNA.
+
+Final state: Viral DNA with 1 G-to-A mutations.

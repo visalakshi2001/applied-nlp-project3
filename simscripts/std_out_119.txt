@@ -1,0 +1,35 @@
+In the environment, you see: 
+	Tricyclic Antidepressant has an effectiveness of 0 in reducing migraine severity and has caused 0 adverse effects.
+	Migraine has a severity level of 10.
+
+Action: tick
+In the environment, you see: 
+	Tricyclic Antidepressant has an effectiveness of 1 in reducing migraine severity and has caused 1 adverse effects.
+	Migraine has a severity level of 10.
+
+
+Action: tick
+In the environment, you see: 
+	Tricyclic Antidepressant has an effectiveness of 2 in reducing migraine severity and has caused 2 adverse effects.
+	Migraine has a severity level of 10.
+
+
+Action: tick
+In the environment, you see: 
+	Tricyclic Antidepressant has an effectiveness of 3 in reducing migraine severity and has caused 3 adverse effects.
+	Migraine has a severity level of 10.
+
+
+Action: tick
+In the environment, you see: 
+	Tricyclic Antidepressant has an effectiveness of 4 in reducing migraine severity and has caused 4 adverse effects.
+	Migraine has a severity level of 10.
+
+
+Action: tick
+In the environment, you see: 
+	Tricyclic Antidepressant has an effectiveness of 5 in reducing migraine severity and has caused 5 adverse effects.
+	Migraine has a severity level of 10.
+
+
+Claim Supported: Antidepressants did not increase the severity of migraines.

@@ -1,0 +1,5 @@
+zebrafish_1
+Action: look
+zebrafish_1
+
+Claim Supported: Normal granulomas form in the presence of TNF in Zebrafish.

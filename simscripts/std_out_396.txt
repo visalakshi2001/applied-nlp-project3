@@ -1,0 +1,15 @@
+In the environment, you see: 
+	No Exercise with exercise level 0 has a cancer mortality rate of 0.8.
+	Low Exercise with exercise level 1 has a cancer mortality rate of 0.75.
+	Moderate Exercise with exercise level 2 has a cancer mortality rate of 0.7.
+	High Exercise with exercise level 3 has a cancer mortality rate of 0.6.
+
+Action: look
+In the environment, you see: 
+	No Exercise with exercise level 0 has a cancer mortality rate of 0.8.
+	Low Exercise with exercise level 1 has a cancer mortality rate of 0.75.
+	Moderate Exercise with exercise level 2 has a cancer mortality rate of 0.7.
+	High Exercise with exercise level 3 has a cancer mortality rate of 0.6.
+
+
+Claim Supported: Exercise increases cancer mortality rates.

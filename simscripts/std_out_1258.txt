@@ -1,0 +1,19 @@
+environment
+Action: look
+environment
+
+Action: activate Kat8
+Kat8 activated.
+
+Action: recruit Wdr5
+Wdr5 recruitment status updated.
+
+Action: look
+environment
+
+Action: deactivate Kat8
+Kat8 deactivated.
+
+Action: recruit Wdr5
+Wdr5 recruitment status updated.
+

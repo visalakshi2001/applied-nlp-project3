@@ -1,0 +1,7 @@
+Sepsis Mortality Simulation Environment
+Action: look
+Sepsis Mortality Simulation Environment
+
+Action: calculate trend
+Mortality rates from 2009 to 2014: [0.11699999999999999, 0.11699999999999999, 0.11699999999999999, 0.11699999999999999, 0.11699999999999999, 0.16]
+

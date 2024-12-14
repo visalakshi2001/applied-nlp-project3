@@ -1,0 +1,5 @@
+environment
+Action: look
+environment
+
+Claim Supported: TMEM27 is a marker for beta cells.

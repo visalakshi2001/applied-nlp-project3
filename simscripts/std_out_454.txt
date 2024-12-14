@@ -1,0 +1,30 @@
+In the exercise environment, you see: 
+	General Exercise Therapy has an effectiveness score of 6.
+	Scapular Stabilizer Exercises has an effectiveness score of 3.
+	Patient A has a pain level of 10 and a function score of 0.
+	Patient B has a pain level of 10 and a function score of 0.
+
+Action: exercise
+In the exercise environment, you see: 
+	General Exercise Therapy has an effectiveness score of 6.
+	Scapular Stabilizer Exercises has an effectiveness score of 3.
+	Patient A has a pain level of 7 and a function score of 5.
+	Patient B has a pain level of 9 and a function score of 2.
+
+
+Action: exercise
+In the exercise environment, you see: 
+	General Exercise Therapy has an effectiveness score of 6.
+	Scapular Stabilizer Exercises has an effectiveness score of 3.
+	Patient A has a pain level of 4 and a function score of 10.
+	Patient B has a pain level of 8 and a function score of 4.
+
+
+Action: exercise
+In the exercise environment, you see: 
+	General Exercise Therapy has an effectiveness score of 6.
+	Scapular Stabilizer Exercises has an effectiveness score of 3.
+	Patient A has a pain level of 1 and a function score of 15.
+	Patient B has a pain level of 7 and a function score of 6.
+
+

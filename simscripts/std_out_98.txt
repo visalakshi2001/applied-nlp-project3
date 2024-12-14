@@ -1,0 +1,5 @@
+Before treatment:
+simulation_environment
+After treatment:
+simulation_environment
+Claim Supported: Alirocumab treatment increases apo(a) fractional clearance rate.

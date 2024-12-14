@@ -1,0 +1,4 @@
+cell_environment
+Action: apply pyridostatin
+Pyridostatin applied to BRCA2-deficient cell.
+cell_environment

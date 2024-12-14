@@ -1,0 +1,6 @@
+In the HIV and Tuberculosis Environment, you see: 
+	Antiretroviral Therapy with effectiveness in reducing tuberculosis incidence: 0.35
+	CD4 < 200 cells/µl with tuberculosis incidence rate: 35.0
+	CD4 200-350 cells/µl with tuberculosis incidence rate: 28.0
+	CD4 > 350 cells/µl with tuberculosis incidence rate: 21.0
+

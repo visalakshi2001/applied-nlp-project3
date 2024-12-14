@@ -1,0 +1,29 @@
+In the environment, you see: 
+	A spinal_cord_injury with severity 10 and recovery level: 0.
+
+Action: tick
+In the environment, you see: 
+	A spinal_cord_injury with severity 10 and recovery level: 0.
+
+
+Action: tick
+In the environment, you see: 
+	A spinal_cord_injury with severity 10 and recovery level: 2.
+
+
+Action: tick
+In the environment, you see: 
+	A spinal_cord_injury with severity 10 and recovery level: 6.
+
+
+Action: tick
+In the environment, you see: 
+	A spinal_cord_injury with severity 10 and recovery level: 12.
+
+
+Action: tick
+In the environment, you see: 
+	A spinal_cord_injury with severity 10 and recovery level: 20.
+
+
+Claim Supported: Propriospinal interneurons are integral for recovery from spinal cord injury.

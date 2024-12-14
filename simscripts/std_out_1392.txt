@@ -1,0 +1,16 @@
+In the environment, you see: 
+	RBM3 (Expression level: 1)
+	miR-142-5p (Temperature-sensitive: True, Expression level: 0)
+
+Action: simulate fever
+In the environment, you see: 
+	RBM3 (Expression level: 0)
+	miR-142-5p (Temperature-sensitive: True, Expression level: 1)
+
+
+Action: simulate normal temperature
+In the environment, you see: 
+	RBM3 (Expression level: 0)
+	miR-142-5p (Temperature-sensitive: True, Expression level: 2)
+
+

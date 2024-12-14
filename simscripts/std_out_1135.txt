@@ -1,0 +1,13 @@
+In the environment, you see: 
+	Glioblastoma Stem Cell with growth rate 1 and survival rate 1.
+	A20 (TNFAIP3) with expression level 1.
+
+Action: look
+In the environment, you see: 
+	Glioblastoma Stem Cell with growth rate 1 and survival rate 1.
+	A20 (TNFAIP3) with expression level 1.
+
+
+Action: knockdown A20
+A20 (TNFAIP3) expression knocked down.
+

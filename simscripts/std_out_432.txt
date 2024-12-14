@@ -1,0 +1,14 @@
+environment
+Action: look
+environment
+
+Action: tick muscle_cell
+muscle_cell has its autophagy genes repressed.
+
+Action: tick fibroblast_cell
+fibroblast_cell has its autophagy genes repressed.
+
+Action: look
+environment
+
+Claim Supported: Foxk2 regulates autophagy genes in muscle cells and fibroblast cells.

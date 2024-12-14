@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A myeloid_cell_with_Klf4 cell with Klf4 present, currently properly differentiated.
+	A myeloid_cell_without_Klf4 cell with Klf4 absent, currently improperly differentiated.
+

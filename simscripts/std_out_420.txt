@@ -1,0 +1,12 @@
+Fibroblast Growth Factor 21 has an adiponectin level of 0 and an SREBP2 level of 0. Atherosclerosis protection status: False.
+Fibroblast Growth Factor 21 has an adiponectin level of 1 and an SREBP2 level of -1. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 2 and an SREBP2 level of -2. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 3 and an SREBP2 level of -3. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 4 and an SREBP2 level of -4. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 5 and an SREBP2 level of -5. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 6 and an SREBP2 level of -6. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 7 and an SREBP2 level of -7. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 8 and an SREBP2 level of -8. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 9 and an SREBP2 level of -9. Atherosclerosis protection status: True.
+Fibroblast Growth Factor 21 has an adiponectin level of 10 and an SREBP2 level of -10. Atherosclerosis protection status: True.
+Claim Supported: FGF21 protects against atherosclerosis.

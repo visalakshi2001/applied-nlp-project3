@@ -1,0 +1,9 @@
+In the environment, you see: 
+	MafA with phosphorylation level 0, ubiquitination level 0, and degradation level 0.
+
+Action: phosphorylate MafA
+MafA has been phosphorylated.
+In the environment, you see: 
+	MafA with phosphorylation level 1, ubiquitination level 1, and degradation level 1.
+
+Claim Supported: MafA phosphorylation enhances its ubiquitination.

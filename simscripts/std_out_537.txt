@@ -1,0 +1,7 @@
+In the environment, you see: 
+Rat
+Tick 1:
+Hypocretin Neuron Activity Level: 0
+Panic State Intensity: 2
+
+Claim Refuted: Hypocretin neurones do not suppress panic-prone state.

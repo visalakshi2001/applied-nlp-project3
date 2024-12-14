@@ -1,0 +1,12 @@
+environment
+Action: look
+environment
+Action: block interaction
+Blocked TDP-43 mitochondrial localization.
+Action: look
+environment
+Action: allow interaction
+Allowed TDP-43 mitochondrial localization.
+Action: look
+environment
+Claim Refuted: Neuronal loss occurred.

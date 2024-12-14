@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Low NT-pro-BNP with NT-pro-BNP level 2 has a risk of T2D: 0.00
+	High NT-pro-BNP with NT-pro-BNP level 8 has a risk of T2D: 0.00
+
+Action: look
+In the environment, you see: 
+	Low NT-pro-BNP with NT-pro-BNP level 2 has a risk of T2D: 0.00
+	High NT-pro-BNP with NT-pro-BNP level 8 has a risk of T2D: 0.00
+
+
+Claim Supported: Higher NT-pro-BNP levels are associated with lower risk of T2D.

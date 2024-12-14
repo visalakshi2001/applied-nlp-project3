@@ -1,0 +1,14 @@
+In the environment, you see: 
+	Tricyclic Antidepressant
+	Migraine
+
+Action: look
+In the environment, you see: 
+	Tricyclic Antidepressant
+	Migraine
+
+
+Action: treat migraine
+The migraine severity is now 9.8.
+
+Claim Supported: Antidepressants reduce the severity of migraines.

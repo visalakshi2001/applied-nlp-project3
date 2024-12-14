@@ -1,0 +1,4 @@
+In the Dementia Incidence Comparison, you see: 
+	10/66 Dementia has an incidence rate of 24.299999999999997 per 1000 person-years.
+	DSM-IV Dementia has an incidence rate of 12.8 per 1000 person-years.
+Supported: Incidence of 10/66 dementia is higher than the incidence of DSM-IV dementia.

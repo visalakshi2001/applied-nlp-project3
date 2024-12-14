@@ -1,0 +1,10 @@
+In the environment, you see: 
+	A HR-deficient cell cell with HR deficiency: True, DSB count: 0.
+	A Normal cell cell with HR deficiency: False, DSB count: 0.
+
+Action: look
+In the environment, you see: 
+	A HR-deficient cell cell with HR deficiency: True, DSB count: 0.
+	A Normal cell cell with HR deficiency: False, DSB count: 0.
+
+

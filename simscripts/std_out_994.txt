@@ -1,0 +1,10 @@
+In the environment, you see: 
+	A HR-defective cell cell with HR defect: True, proliferation rate: 1.0.
+	A Normal cell cell with HR defect: False, proliferation rate: 1.0.
+
+Action: look
+In the environment, you see: 
+	A HR-defective cell cell with HR defect: True, proliferation rate: 1.0.
+	A Normal cell cell with HR defect: False, proliferation rate: 1.0.
+
+

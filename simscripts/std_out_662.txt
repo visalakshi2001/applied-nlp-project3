@@ -1,0 +1,14 @@
+In the cell environment, you see: 
+	JMJD6 with hydroxylation rate: 1.0
+	p53 with hydroxylation level: 0.0
+
+Action: look
+In the cell environment, you see: 
+	JMJD6 with hydroxylation rate: 1.0
+	p53 with hydroxylation level: 0.0
+
+
+Action: inhibit hydroxylation
+JMJD6 has inhibited hydroxylation. p53 hydroxylation level updated.
+
+Claim Supported: JMJD6 slows the hydroxylation of C-terminal lysine.

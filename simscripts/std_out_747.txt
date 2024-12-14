@@ -1,0 +1,10 @@
+MafA Environment
+Action: look
+MafA Environment
+
+Action: ubiquitinate MafA
+MafA has been ubiquitinated.
+
+Action: look
+MafA Environment
+

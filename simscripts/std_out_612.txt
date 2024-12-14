@@ -1,0 +1,15 @@
+In the environment, you see: 
+	A LRRK2 Neuron with acetylation level 0 and locomotor deficit 0.
+
+Action: increase acetylation of LRRK2 Neuron
+You increase the acetylation of LRRK2 Neuron by 1.
+
+Action: increase acetylation of LRRK2 Neuron
+You increase the acetylation of LRRK2 Neuron by 1.
+
+Action: look
+In the environment, you see: 
+	A LRRK2 Neuron with acetylation level 2 and locomotor deficit 6.
+
+
+Claim Supported: Increased microtubule acetylation exacerbates locomotor deficits.

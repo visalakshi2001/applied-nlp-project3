@@ -1,0 +1,34 @@
+In the HIV Environment, you see: 
+	Patient A - Stable Partnership: True, Time to AIDS/Death: 0, CD4 Increase: 0, Viral Suppression: False.
+	Patient B - Stable Partnership: False, Time to AIDS/Death: 0, CD4 Increase: 0, Viral Suppression: False.
+
+Action: tick
+In the HIV Environment, you see: 
+	Patient A - Stable Partnership: True, Time to AIDS/Death: 0.79, CD4 Increase: 1, Viral Suppression: True.
+	Patient B - Stable Partnership: False, Time to AIDS/Death: 1, CD4 Increase: 0, Viral Suppression: False.
+
+
+Action: tick
+In the HIV Environment, you see: 
+	Patient A - Stable Partnership: True, Time to AIDS/Death: 1.58, CD4 Increase: 2, Viral Suppression: True.
+	Patient B - Stable Partnership: False, Time to AIDS/Death: 2, CD4 Increase: 0, Viral Suppression: False.
+
+
+Action: tick
+In the HIV Environment, you see: 
+	Patient A - Stable Partnership: True, Time to AIDS/Death: 2.37, CD4 Increase: 3, Viral Suppression: True.
+	Patient B - Stable Partnership: False, Time to AIDS/Death: 3, CD4 Increase: 0, Viral Suppression: False.
+
+
+Action: tick
+In the HIV Environment, you see: 
+	Patient A - Stable Partnership: True, Time to AIDS/Death: 3.16, CD4 Increase: 4, Viral Suppression: True.
+	Patient B - Stable Partnership: False, Time to AIDS/Death: 4, CD4 Increase: 0, Viral Suppression: False.
+
+
+Action: tick
+In the HIV Environment, you see: 
+	Patient A - Stable Partnership: True, Time to AIDS/Death: 3.95, CD4 Increase: 5, Viral Suppression: True.
+	Patient B - Stable Partnership: False, Time to AIDS/Death: 5, CD4 Increase: 0, Viral Suppression: False.
+
+

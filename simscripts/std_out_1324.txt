@@ -1,0 +1,18 @@
+In the muscle regeneration environment, you see: 
+	Aged Muscle contains:
+	MuSC 1 with FN level: 0, regeneration ability: 0
+	MuSC 2 with FN level: 0, regeneration ability: 0
+
+
+Action: look
+In the muscle regeneration environment, you see: 
+	Aged Muscle contains:
+	MuSC 1 with FN level: 0, regeneration ability: 0
+	MuSC 2 with FN level: 0, regeneration ability: 0
+
+
+
+Action: inject FN
+Injected 5 units of FN into the aged muscle.
+
+Claim Supported: FN restores regenerative abilities of aged muscles.

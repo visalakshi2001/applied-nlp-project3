@@ -1,0 +1,5 @@
+environment
+Action: look
+environment
+
+Claim Supported: aPKCz deficiency leads to increased glutamine metabolism, supporting tumorigenesis.

@@ -1,0 +1,4 @@
+In the cell environment, you see: 
+	A p53BER with eRNA production level at 1. Transcription enhancement: True. Cell cycle arrest: True.
+	p53 Protein
+

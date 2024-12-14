@@ -1,0 +1,10 @@
+Before treatment:
+In the environment, you see: 
+	Brown Adipose Tissue with activity level: 0
+	Chenodeoxycholic Acid
+
+After treatment:
+In the environment, you see: 
+	Brown Adipose Tissue with activity level: 1
+	Chenodeoxycholic Acid
+

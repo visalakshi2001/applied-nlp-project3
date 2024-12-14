@@ -1,0 +1,5 @@
+Gene: DGKK, SNPs: 
+	rs1934179 with odds ratio 2.5 and p-value 2.5e-11.
+	rs7063116 with odds ratio 2.3 and p-value 2.9e-09.
+
+Claim verification result: Supported

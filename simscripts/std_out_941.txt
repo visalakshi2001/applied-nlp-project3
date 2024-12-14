@@ -1,0 +1,12 @@
+Before intervention:
+In the ICU, you see:
+	Patient 1 has an adverse event rate of 10.40 per 1000 patient-days.
+	Patient 2 has an adverse event rate of 10.90 per 1000 patient-days.
+	Patient 3 has an adverse event rate of 12.40 per 1000 patient-days.
+
+After intervention:
+In the ICU, you see:
+	Patient 1 has an adverse event rate of 3.54 per 1000 patient-days.
+	Patient 2 has an adverse event rate of 3.71 per 1000 patient-days.
+	Patient 3 has an adverse event rate of 4.22 per 1000 patient-days.
+

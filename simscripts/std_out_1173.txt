@@ -1,0 +1,14 @@
+In the environment, you see: 
+	PDPN
+	CLEC2
+
+Action: look
+In the environment, you see: 
+	PDPN
+	CLEC2
+
+
+Action: deactivate CLEC2
+You deactivate CLEC2.
+
+Claim Supported: The PDPN gene deactivates the C-type lectin receptor (CLEC-2).

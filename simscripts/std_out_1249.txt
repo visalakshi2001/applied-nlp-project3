@@ -1,0 +1,13 @@
+In the environment, you see: 
+	Toddler, age 2, has a fracture incidence of 0.
+	Pre-Teen, age 10, has a fracture incidence of 0.
+	Adult, age 20, has a fracture incidence of 0.
+
+Action: look
+In the environment, you see: 
+	Toddler, age 2, has a fracture incidence of 0.
+	Pre-Teen, age 10, has a fracture incidence of 0.
+	Adult, age 20, has a fracture incidence of 0.
+
+
+Claim Refuted: The peak incidence of fractures does not occur in toddlers.

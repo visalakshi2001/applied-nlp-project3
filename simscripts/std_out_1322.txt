@@ -1,0 +1,5 @@
+Host Brain
+Action: tick
+Host Brain
+
+Claim Supported: Transplanted human glial progenitor cells can mature in their host animal.

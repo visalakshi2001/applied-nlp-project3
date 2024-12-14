@@ -1,0 +1,10 @@
+Diagnostic Environment
+Action: assess Patient 1
+Patient 1 is assessed: None
+
+Action: assess Patient 2
+Patient 2 is assessed: None
+
+Action: look
+Diagnostic Environment
+

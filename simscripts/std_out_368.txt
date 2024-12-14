@@ -1,0 +1,5 @@
+In the hospital environment, you see: 
+	Infant 1 (Screened: True, Mortality Rate: 0.0%)
+	Infant 2 (Screened: False, Mortality Rate: 0.0%)
+
+Claim Refuted: Early screening is associated with lower in-hospital mortality.

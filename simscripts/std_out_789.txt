@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A Microglia, which is an innate immune cell type located in the central nervous system. It plays a role in sculpt structure, refine circuitry, contribute to plasticity.
+
+Claim Supported: Microglia are indeed an innate immune cell type of the central nervous system.

@@ -1,0 +1,4 @@
+environment
+Action: apply pyridostatin
+telomere_1 has been treated with pyridostatin.
+environment

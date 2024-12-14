@@ -1,0 +1,2 @@
+The ribosome has not recognized the start codon.
+The ribosome has recognized the start codon.

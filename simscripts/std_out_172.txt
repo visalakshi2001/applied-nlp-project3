@@ -1,0 +1,7 @@
+environment
+Action: look
+environment
+
+Action: activate basophil_1
+You activate basophil_1.
+

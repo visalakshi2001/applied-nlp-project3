@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1341.py", line 42, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1341.py", line 37, in main
+    simulation = Simulation()
+                 ^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1341.py", line 27, in __init__
+    self.ultrasound_procedure.perform_procedure()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1341.py", line 17, in perform_procedure
+    self.traumatic_attempts = 1 if random.random() < 0.27 else 0  # 0.27 risk ratio
+                                   ^^^^^^
+NameError: name 'random' is not defined

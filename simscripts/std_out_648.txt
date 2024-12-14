@@ -1,0 +1,4 @@
+In the healthcare environment, you see: 
+	Patient 1 has a disability score of 5 and a quality of life rating of 2.
+
+Claim Supported: Integrated care is successful at tackling multiple comorbidities.

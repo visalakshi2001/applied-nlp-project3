@@ -1,0 +1,10 @@
+In the environment, you see: 
+	A stem_cell_stiff on a stiff substrate, with beta-catenin level at 0 and differentiation state: undifferentiated.
+	A stem_cell_compliant on a compliant substrate, with beta-catenin level at 0 and differentiation state: undifferentiated.
+
+Action: look
+In the environment, you see: 
+	A stem_cell_stiff on a stiff substrate, with beta-catenin level at 0 and differentiation state: undifferentiated.
+	A stem_cell_compliant on a compliant substrate, with beta-catenin level at 0 and differentiation state: undifferentiated.
+
+

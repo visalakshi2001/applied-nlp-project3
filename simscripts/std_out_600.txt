@@ -1,0 +1,5 @@
+ICU
+Patient 1 has an adverse drug event rate of 3.5 per 1000 patient-days.
+Patient 2 has an adverse drug event rate of 3.5 per 1000 patient-days.
+Patient 3 has an adverse drug event rate of 3.5 per 1000 patient-days.
+Claim Refuted: Including pharmacists in rounding teams reduces the incidence of ADEs.

@@ -1,0 +1,6 @@
+In the environment, you see: 
+	BCL-2
+	c-Myc
+	Cancer Cell
+
+Action: tick

@@ -1,0 +1,28 @@
+In the environment, you see: 
+	A myeloid_cell_1 with Klf2 expression level 1, currently inactive.
+	Klf2
+
+Action: look
+In the environment, you see: 
+	A myeloid_cell_1 with Klf2 expression level 1, currently inactive.
+	Klf2
+
+
+Action: decrease Klf2 expression
+Decreased Klf2 expression.
+
+Action: look
+In the environment, you see: 
+	A myeloid_cell_1 with Klf2 expression level 1, currently active.
+	Klf2
+
+
+Action: increase Klf2 expression
+Increased Klf2 expression.
+
+Action: look
+In the environment, you see: 
+	A myeloid_cell_1 with Klf2 expression level 1, currently active.
+	Klf2
+
+

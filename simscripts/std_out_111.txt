@@ -1,0 +1,4 @@
+In the lab, you see: 
+AG-haESC - Derived: True, Manipulated: False.
+
+Claim verification result: Supported

@@ -1,0 +1,7 @@
+environment
+Action: look
+environment
+
+Action: check abundance of progerin_only_allele
+progerin_only_allele is abundant.
+

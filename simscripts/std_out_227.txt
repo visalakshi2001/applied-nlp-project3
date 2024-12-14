@@ -1,0 +1,28 @@
+In the cancer_environment, you see: 
+	A Lung Cancer Cell that has initially responsive to EGFR-targeted therapies.
+	A Colorectal Cancer Cell that has initially responsive to EGFR-targeted therapies.
+
+Action: look
+In the cancer_environment, you see: 
+	A Lung Cancer Cell that has initially responsive to EGFR-targeted therapies.
+	A Colorectal Cancer Cell that has initially responsive to EGFR-targeted therapies.
+
+
+Action: develop resistance in Lung Cancer Cell
+Lung Cancer Cell has developed resistance to EGFR-targeted therapies.
+
+Action: look
+In the cancer_environment, you see: 
+	A Lung Cancer Cell that has developed resistance to EGFR-targeted therapies.
+	A Colorectal Cancer Cell that has initially responsive to EGFR-targeted therapies.
+
+
+Action: develop resistance in Colorectal Cancer Cell
+Colorectal Cancer Cell has developed resistance to EGFR-targeted therapies.
+
+Action: look
+In the cancer_environment, you see: 
+	A Lung Cancer Cell that has developed resistance to EGFR-targeted therapies.
+	A Colorectal Cancer Cell that has developed resistance to EGFR-targeted therapies.
+
+

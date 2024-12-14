@@ -1,0 +1,6 @@
+In the cell environment, you see: 
+	MICAL1
+	MICAL2
+	MICAL3
+
+Action: look

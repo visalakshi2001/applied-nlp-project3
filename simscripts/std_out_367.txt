@@ -1,0 +1,2 @@
+Calculated In-Hospital Mortality Rate: 0.161
+Claim Supported: Early PDA screening decreases in-hospital mortality.

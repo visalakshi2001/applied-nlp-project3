@@ -1,0 +1,8 @@
+In the environment, you see: 
+	woman_1
+	woman_2
+
+Fertility Outcomes:
+woman_1: low
+woman_2: normal
+Claim Supported: Diminished ovarian reserve is a strong indicator of infertility.

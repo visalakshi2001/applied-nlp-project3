@@ -1,0 +1,16 @@
+Wnt Signal Container
+Action: look
+Wnt Signal Container
+
+Action: block Wnt signaling of Mouse Embryonic Stem Cell
+You block Wnt signaling of Mouse Embryonic Stem Cell.
+
+Action: look
+Wnt Signal Container
+
+Action: activate Wnt signaling of Mouse Embryonic Stem Cell
+You activate Wnt signaling of Mouse Embryonic Stem Cell.
+
+Action: look
+Wnt Signal Container
+

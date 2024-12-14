@@ -1,0 +1,10 @@
+In the environment, you see: 
+	A microglia cell named Microglia_1, which is an innate immune cell located in the CNS.
+	A microglia cell named Microglia_2, which is an innate immune cell located in the CNS.
+
+Action: look
+In the environment, you see: 
+	A microglia cell named Microglia_1, which is an innate immune cell located in the CNS.
+	A microglia cell named Microglia_2, which is an innate immune cell located in the CNS.
+
+

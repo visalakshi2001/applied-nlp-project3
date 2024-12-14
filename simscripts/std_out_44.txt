@@ -1,0 +1,7 @@
+In the environment, you see: 
+	A child aged 0 years, with HNF4A with mutation status: mutated, diabetes risk: 0.
+
+After 14 years:
+In the environment, you see: 
+	A child aged 14 years, with HNF4A with mutation status: mutated, diabetes risk: 140.
+Claim Supported: Increased risk of developing diabetes due to HNF4A mutation.

@@ -1,0 +1,4 @@
+In the environment, you see: 
+Fracture in boys aged 11-14
+Fracture in girls aged 8-11
+Claim verification result: Supported

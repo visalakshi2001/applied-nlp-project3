@@ -1,0 +1,16 @@
+cancer environment
+Action: look
+cancer environment BCL-2 is preventing cell death.
+
+Action: deactivate BCL-2
+BCL-2 is deactivated. Cell death occurs due to lack of BCL-2.
+
+Action: look
+cancer environment Cell death occurs due to lack of BCL-2.
+
+Action: activate BCL-2
+BCL-2 is activated. BCL-2 is preventing cell death.
+
+Action: look
+cancer environment BCL-2 is preventing cell death.
+

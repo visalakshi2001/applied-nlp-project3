@@ -1,0 +1,4 @@
+Simulation Results:
+Patient 1 is receiving carvedilol and the outcome is no significant improvement.
+Patient 2 is receiving placebo and the outcome is unknown treatment.
+

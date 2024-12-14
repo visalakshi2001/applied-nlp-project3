@@ -1,0 +1,34 @@
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, susceptibility to obesity: 0, insulin resistance: 0.
+	A Mouse without SIRT1 with SIRT1 absent, susceptibility to obesity: 0, insulin resistance: 0.
+
+Action: tick
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, susceptibility to obesity: 0, insulin resistance: 0.
+	A Mouse without SIRT1 with SIRT1 absent, susceptibility to obesity: 1, insulin resistance: 1.
+
+
+Action: tick
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, susceptibility to obesity: 0, insulin resistance: 0.
+	A Mouse without SIRT1 with SIRT1 absent, susceptibility to obesity: 2, insulin resistance: 2.
+
+
+Action: tick
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, susceptibility to obesity: 0, insulin resistance: 0.
+	A Mouse without SIRT1 with SIRT1 absent, susceptibility to obesity: 3, insulin resistance: 3.
+
+
+Action: tick
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, susceptibility to obesity: 0, insulin resistance: 0.
+	A Mouse without SIRT1 with SIRT1 absent, susceptibility to obesity: 4, insulin resistance: 4.
+
+
+Action: tick
+In the environment, you see: 
+	A Mouse with SIRT1 with SIRT1 present, susceptibility to obesity: 0, insulin resistance: 0.
+	A Mouse without SIRT1 with SIRT1 absent, susceptibility to obesity: 5, insulin resistance: 5.
+
+

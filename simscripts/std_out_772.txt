@@ -1,0 +1,8 @@
+environment
+Action: look
+environment
+
+Action: produce neutralizing antibodies in mouse_1
+mouse_1 has produced neutralizing antibodies.
+
+Claim is Refuted: Mice can produce neutralizing antibodies in response to CHIKV.

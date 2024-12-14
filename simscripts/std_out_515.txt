@@ -1,0 +1,12 @@
+In the COPD Environment, you see: 
+	Patient 1 has a CRP level of 4 and an exacerbation risk of 0 events/1000 person-years.
+	Patient 2 has a CRP level of 2 and an exacerbation risk of 0 events/1000 person-years.
+	Patient 3 has a CRP level of 0 and an exacerbation risk of 0 events/1000 person-years.
+
+Action: look
+In the COPD Environment, you see: 
+	Patient 1 has a CRP level of 4 and an exacerbation risk of 0 events/1000 person-years.
+	Patient 2 has a CRP level of 2 and an exacerbation risk of 0 events/1000 person-years.
+	Patient 3 has a CRP level of 0 and an exacerbation risk of 0 events/1000 person-years.
+
+

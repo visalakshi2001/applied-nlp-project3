@@ -1,0 +1,6 @@
+In the environment, you see: 
+	Orlistat has side effects: True.
+	Sibutramine has side effects: True.
+	Rimonabant has side effects: True.
+
+Claim Refuted: Medications to treat obesity do have side effects.

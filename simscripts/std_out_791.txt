@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A migraine with aura has a risk factor of 0 for ischemic stroke.
+	A migraine without aura has a risk factor of 0 for ischemic stroke.
+
+Action: look
+In the environment, you see: 
+	A migraine with aura has a risk factor of 0 for ischemic stroke.
+	A migraine without aura has a risk factor of 0 for ischemic stroke.
+
+
+Claim Supported: Migraine with aura is associated with ischemic stroke.

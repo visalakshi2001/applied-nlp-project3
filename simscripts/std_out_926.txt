@@ -1,0 +1,6 @@
+In the Hospital, you see:
+	Patient 1 with breast cancer is admitted as emergency.
+	Patient 2 with lung cancer is admitted as elective.
+	Patient 3 with colorectal cancer is admitted as emergency.
+	Patient 4 with breast cancer is admitted as elective.
+

@@ -1,0 +1,4 @@
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_635.py", line 39
+    self.6PGD = Glucose6PhosphateDehydrogenase("6PGD")
+         ^
+SyntaxError: invalid decimal literal

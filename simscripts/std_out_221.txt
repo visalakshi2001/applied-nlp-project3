@@ -1,0 +1,11 @@
+In the thermogenic environment, you see: 
+	UCP1 Mechanism - UCP1 dependent: True, Ca2+ cycling active: False.
+	Ca2+ Cycling Mechanism - UCP1 dependent: False, Ca2+ cycling active: False.
+
+Action: look
+In the thermogenic environment, you see: 
+	UCP1 Mechanism - UCP1 dependent: True, Ca2+ cycling active: False.
+	Ca2+ Cycling Mechanism - UCP1 dependent: False, Ca2+ cycling active: False.
+
+
+Claim Supported: Ca2+ cycling is a UCP1-dependent thermogenic mechanism.

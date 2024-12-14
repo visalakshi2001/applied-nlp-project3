@@ -1,0 +1,13 @@
+cell
+Action: look
+cell
+
+Action: regulate PTENP1 expression
+You regulate the expression of PTENP1 by 1.
+
+Action: regulate PTEN expression
+You regulate the expression of PTEN by 1.
+
+Action: look
+cell
+

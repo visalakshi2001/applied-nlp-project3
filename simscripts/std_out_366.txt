@@ -1,0 +1,1 @@
+Supported: ERAP1 SNPs are epistatic to HLA alleles.

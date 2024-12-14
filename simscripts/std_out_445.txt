@@ -1,0 +1,30 @@
+In the Bone Marrow Environment, you see: 
+	HSC with GATA3: Quiescent: True, In Cycle: False, Has GATA3: True
+	HSC with GATA3: Quiescent: True, In Cycle: False, Has GATA3: True
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+
+Action: tick
+In the Bone Marrow Environment, you see: 
+	HSC with GATA3: Quiescent: False, In Cycle: True, Has GATA3: True
+	HSC with GATA3: Quiescent: False, In Cycle: True, Has GATA3: True
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+
+
+Action: tick
+In the Bone Marrow Environment, you see: 
+	HSC with GATA3: Quiescent: False, In Cycle: True, Has GATA3: True
+	HSC with GATA3: Quiescent: False, In Cycle: True, Has GATA3: True
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+
+
+Action: tick
+In the Bone Marrow Environment, you see: 
+	HSC with GATA3: Quiescent: False, In Cycle: True, Has GATA3: True
+	HSC with GATA3: Quiescent: False, In Cycle: True, Has GATA3: True
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+	GATA3-null HSC: Quiescent: True, In Cycle: False, Has GATA3: False
+
+

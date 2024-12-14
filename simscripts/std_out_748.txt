@@ -1,0 +1,11 @@
+In the cell, you see: 
+	MafA (Ubiquitinated: False, P/CAF recruited: False)
+	P/CAF
+
+Action: look
+In the cell, you see: 
+	MafA (Ubiquitinated: False, P/CAF recruited: False)
+	P/CAF
+
+
+Action: ubiquitinate MafA

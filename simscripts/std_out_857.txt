@@ -1,0 +1,10 @@
+In the medical environment, you see: 
+	Patient 1 uses NSAIDs regularly: True. Current cancer risk: 1.0.
+	Patient 2 uses NSAIDs regularly: False. Current cancer risk: 1.0.
+
+Action: look
+In the medical environment, you see: 
+	Patient 1 uses NSAIDs regularly: True. Current cancer risk: 1.0.
+	Patient 2 uses NSAIDs regularly: False. Current cancer risk: 1.0.
+
+

@@ -1,0 +1,3 @@
+Result with Ultrasound: 0.56 insertion attempts
+Result without Ultrasound: 2.00 insertion attempts
+Claim Supported: Ultrasound guidance significantly reduces the number of needle insertion attempts.

@@ -1,0 +1,11 @@
+hypothalamus
+Action: look
+hypothalamus
+
+Action: increase glutamate release of VMH Neuron
+Cannot increase the glutamate release of VMH Neuron.
+
+Action: look
+hypothalamus
+
+Claim Refuted: Glutamate neurotransmission is related to energy balance.

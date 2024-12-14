@@ -1,0 +1,16 @@
+In the Gastric Environment, you see: 
+	Patient 1 has Helicobacter pylori infection is not infected with a cancer risk of 1.00.
+Action: infect patient
+The patient is now infected with Helicobacter pylori.
+
+Action: look
+In the Gastric Environment, you see: 
+	Patient 1 has Helicobacter pylori infection is infected with a cancer risk of 2.77.
+
+Action: remove infection
+The patient is no longer infected with Helicobacter pylori.
+
+Action: look
+In the Gastric Environment, you see: 
+	Patient 1 has Helicobacter pylori infection is not infected with a cancer risk of 7.67.
+

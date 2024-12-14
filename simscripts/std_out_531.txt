@@ -1,0 +1,11 @@
+In the embryonic_stem_cell_environment, you see: 
+	A Human Embryonic Stem Cell stem cell, currently undifferentiated, with potential to differentiate into: ectoderm, mesoderm, endoderm.
+
+Action: look
+In the embryonic_stem_cell_environment, you see: 
+	A Human Embryonic Stem Cell stem cell, currently undifferentiated, with potential to differentiate into: ectoderm, mesoderm, endoderm.
+
+
+Action: differentiate Human Embryonic Stem Cell
+Human Embryonic Stem Cell has differentiated into cells of all three germ layers.
+

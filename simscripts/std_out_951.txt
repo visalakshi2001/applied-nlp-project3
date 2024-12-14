@@ -1,0 +1,3 @@
+Initial Mobility: 0.6
+Restored Mobility: 1.2
+Claim Supported: Piezo1 channels are sensors for cell migration in epithelial cells.

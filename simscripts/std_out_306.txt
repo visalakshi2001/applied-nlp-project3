@@ -1,0 +1,5 @@
+In the environment, you see: 
+	DUSP4
+	Apoptosis
+
+Action: evaluate apoptosis

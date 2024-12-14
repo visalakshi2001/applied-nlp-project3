@@ -1,0 +1,14 @@
+In the environment, you see: 
+	A nonhuman_primate with neutralizing antibodies: False and immune response: False.
+	Eilat virus (EILV) that elicits immunity: True.
+
+Action: look
+In the environment, you see: 
+	A nonhuman_primate with neutralizing antibodies: False and immune response: False.
+	Eilat virus (EILV) that elicits immunity: True.
+
+
+Action: elicit immune response
+The nonhuman_primate has elicited an immune response.
+
+Claim is Refuted: Nonhuman primates can produce neutralizing antibodies in response to EILV.

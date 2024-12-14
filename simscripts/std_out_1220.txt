@@ -1,0 +1,13 @@
+In the environment, you see: 
+	ReactiveOxygenSpecies
+	BCR/ABL Oncogene
+	LeukemiaCell
+
+Action: look
+In the environment, you see: 
+	ReactiveOxygenSpecies
+	BCR/ABL Oncogene
+	LeukemiaCell
+
+
+Claim Refuted: The generation of reactive oxygen species by activated oncogenes does not contribute to the increased genomic instability of leukaemia cells.

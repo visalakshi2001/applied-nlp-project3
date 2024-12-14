@@ -1,0 +1,35 @@
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 5.
+	nonpregnant_woman has a sympathetic nerve activity level of 5.
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 4.
+	nonpregnant_woman has a sympathetic nerve activity level of 4.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 3.
+	nonpregnant_woman has a sympathetic nerve activity level of 3.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 2.
+	nonpregnant_woman has a sympathetic nerve activity level of 2.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 1.
+	nonpregnant_woman has a sympathetic nerve activity level of 1.
+
+
+Action: tick
+In the environment, you see: 
+	pregnant_woman has a sympathetic nerve activity level of 0.
+	nonpregnant_woman has a sympathetic nerve activity level of 0.
+
+
+Refuted: Sympathetic nerve activity is not reduced throughout normal pregnancy.

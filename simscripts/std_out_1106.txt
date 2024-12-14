@@ -1,0 +1,11 @@
+In the medical_school, you see: 
+	Student A: Early Performance = 0, Misconduct Likelihood = 0.1
+	Student B: Early Performance = 2, Misconduct Likelihood = 0.1
+
+Action: look
+In the medical_school, you see: 
+	Student A: Early Performance = 0, Misconduct Likelihood = 0.1
+	Student B: Early Performance = 2, Misconduct Likelihood = 0.1
+
+
+Claim Refuted: Poor early performance is associated with higher likelihood of misconduct.

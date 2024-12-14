@@ -1,0 +1,4 @@
+In the environment, you see: 
+	A wild_type_mouse mouse, with myocarditis severity 2 and mortality 0.
+	A IFN_gamma_deficient_mouse mouse, with myocarditis severity 10 and mortality 1.
+

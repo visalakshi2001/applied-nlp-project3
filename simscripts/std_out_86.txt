@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A embryonic_macrophage macrophage, originating from embryonic.
+	A adult_macrophage macrophage, originating from adult.
+
+Action: look
+In the environment, you see: 
+	A embryonic_macrophage macrophage, originating from embryonic.
+	A adult_macrophage macrophage, originating from adult.
+
+
+Claim Supported: Adult tissue-resident macrophages are seeded before birth.

@@ -1,0 +1,11 @@
+In the environment, you see: 
+	Folic Acid intake: 5, Homocysteine level: 10
+	Vitamin B6 intake: 3, Homocysteine level: 10
+
+Action: look
+In the environment, you see: 
+	Folic Acid intake: 5, Homocysteine level: 10
+	Vitamin B6 intake: 3, Homocysteine level: 10
+
+
+Claim Supported: Intake of folic acid and vitamin B6 reduces levels of homocysteine.

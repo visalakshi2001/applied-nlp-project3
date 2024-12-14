@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_694.py", line 99, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_694.py", line 86, in main
+    obs = simulation.step(action)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_694.py", line 67, in step
+    lav.induce_response(t_cells)
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_694.py", line 25, in induce_response
+    t_cell.response_strength += 5  # LAVs significantly boost T cell response
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LAV' object has no attribute 'response_strength'

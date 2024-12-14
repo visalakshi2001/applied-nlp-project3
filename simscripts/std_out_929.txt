@@ -1,0 +1,5 @@
+Patient A: Resistance Status - resistant, Has Severe Malarial Anaemia - False
+Patient B: Resistance Status - not resistant, Has Severe Malarial Anaemia - True
+Patient C: Resistance Status - not resistant, Has Severe Malarial Anaemia - True
+Patient D: Resistance Status - not resistant, Has Severe Malarial Anaemia - True
+Claim Refuted: Not all patients with microcytosis and higher erythrocyte count are resistant to severe malarial anaemia.

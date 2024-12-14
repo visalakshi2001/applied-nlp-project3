@@ -1,0 +1,5 @@
+In the environment, you see: 
+	Erythromycin used during 0-13 days after birth has an associated risk ratio of 29.8 for IHPS.
+	Infant_1 has used Erythromycin.
+	Infant_2 has not used any macrolide.
+

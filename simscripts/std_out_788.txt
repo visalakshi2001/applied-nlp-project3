@@ -1,0 +1,14 @@
+In the environment, you see: 
+	Microcin J25
+	RNA Polymerase
+
+Action: look
+In the environment, you see: 
+	Microcin J25
+	RNA Polymerase
+
+
+Action: inhibit NTP binding
+NTP binding is inhibited.
+
+Claim Supported: Microcin J25 inhibits nucleoside triphosphate (NTP) binding.

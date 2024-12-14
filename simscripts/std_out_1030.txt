@@ -1,0 +1,11 @@
+In the environment, you see: 
+	A mouse_epiblast_stem_cell with methylation level 1 and naive pluripotency status: False.
+
+Action: reduce methylation of mouse_epiblast_stem_cell
+You reduce the methylation of mouse_epiblast_stem_cell.
+
+Action: look
+In the environment, you see: 
+	A mouse_epiblast_stem_cell with methylation level 0 and naive pluripotency status: True.
+
+

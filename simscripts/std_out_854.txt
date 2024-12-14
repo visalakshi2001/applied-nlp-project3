@@ -1,0 +1,4 @@
+In the environment, you see: 
+	Individual aged 55
+
+Claim verification result: Supported

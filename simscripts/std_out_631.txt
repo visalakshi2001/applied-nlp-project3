@@ -1,0 +1,7 @@
+environment
+Action: look
+environment
+
+Action: inhibit HDAC6
+You inhibit HDAC6 of Mouse_1.
+

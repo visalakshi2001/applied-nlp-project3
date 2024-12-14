@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1263.py", line 149, in <module>
+    main()
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1263.py", line 135, in main
+    simulation = Simulation()
+                 ^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1263.py", line 125, in __init__
+    self.rootObject = self._initialize_simulation()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1263.py", line 130, in _initialize_simulation
+    tal_effector = TAL_Effector("TAL Effector 1", True, True)  # RVDs are present
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1263.py", line 110, in __init__
+    "contact_specification": self.specify_contact()
+                             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ual-laptop\Desktop\Visalakshi\College\APPLIED NLP INFO 555\Project 4\simscripts\simulation_1263.py", line 115, in specify_contact
+    if self.properties["RVD1"] and self.properties["RVD2"]:
+       ~~~~~~~~~~~~~~~^^^^^^^^
+KeyError: 'RVD1'

@@ -1,0 +1,6 @@
+In the environment, you see: 
+	Van Gogh Bundle
+
+Action: check sliding ability of Van Gogh Bundle
+The Van Gogh Bundle can slide: True.
+

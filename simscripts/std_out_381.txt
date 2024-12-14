@@ -1,0 +1,14 @@
+In the environment, you see: 
+Total Breast Cancer Risk: 11.5
+	Age at Menarche with influence level 2.
+	Body Mass Index with influence level 3.
+	Alcohol Consumption with influence level 4.
+
+Action: look
+In the environment, you see: 
+Total Breast Cancer Risk: 11.5
+	Age at Menarche with influence level 2.
+	Body Mass Index with influence level 3.
+	Alcohol Consumption with influence level 4.
+
+

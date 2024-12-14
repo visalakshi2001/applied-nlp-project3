@@ -1,0 +1,11 @@
+Progenitor Environment
+Action: tick
+Progenitor Environment
+
+Action: tick
+Progenitor Environment
+
+Action: tick
+Progenitor Environment
+
+Claim Supported: The proliferative capacity of progenitors is regulated cell-autonomously.

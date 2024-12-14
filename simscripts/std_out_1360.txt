@@ -1,0 +1,2 @@
+treatment_environment
+Claim Verification Result: Refuted

@@ -1,0 +1,7 @@
+In the kidney environment, you see: 
+	A podocyte_1 with uPAR signaling: False, foot process effacement: False, proteinuria level: 0.
+
+Action: induce uPAR signaling
+In the kidney environment, you see: 
+	A podocyte_1 with uPAR signaling: True, foot process effacement: True, proteinuria level: 2.
+

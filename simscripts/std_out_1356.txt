@@ -1,0 +1,8 @@
+simulation_environment
+Action: administer vaccine
+oral_vaccine administered. Effectiveness set to 5.
+Action: tick
+Simulation ticked. Effects applied.
+Action: tick
+Simulation ticked. Effects applied.
+Claim Refuted: Vaccinating the gastrointestinal tract does not induce protection of rectal and vaginal mucosa.

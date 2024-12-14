@@ -1,0 +1,4 @@
+environment
+Cell_1 has been killed by CED-10 activation.
+Cell_1 has been cleared.
+Claim Supported: Activation of CED-10 kills viable cells in SRGP-1 mutant Caenorhabditis elegans.

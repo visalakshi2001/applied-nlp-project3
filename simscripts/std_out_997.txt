@@ -1,0 +1,7 @@
+environment
+Action: look
+environment
+
+Action: tick HR-defective cell 1
+HR-defective cell 1 has been ticked. Current DSB count: 2.
+

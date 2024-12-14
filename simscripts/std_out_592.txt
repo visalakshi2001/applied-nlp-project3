@@ -1,0 +1,5 @@
+In the environment, you see: 
+	10/66 dementia has an incidence rate of 24.299999999999997 per 1000 person-years.
+	DSM-IV dementia has an incidence rate of 12.8 per 1000 person-years.
+
+Claim verification result: Refuted

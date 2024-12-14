@@ -1,0 +1,8 @@
+environment
+Action: activate TFEB
+TFEB is activated in macrophage_1.
+
+Action: look
+environment
+
+environment

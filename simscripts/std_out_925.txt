@@ -1,0 +1,12 @@
+Initial State:
+In the HIV Patient Environment, you see: 
+	Patient A, who is in a stable partnership, has progressed for 0 time units.
+	Patient B, who is not in a stable partnership, has progressed for 0 time units.
+
+Running Simulation...
+Final State After Simulation:
+In the HIV Patient Environment, you see: 
+	Patient A, who is in a stable partnership, has progressed for 7.9 time units.
+	Patient B, who is not in a stable partnership, has progressed for 10.0 time units.
+
+Claim Refuted: Patients in stable partnerships progress slower than those not in partnerships.

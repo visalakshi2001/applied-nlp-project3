@@ -1,0 +1,3 @@
+Average Pneumonia Mortality Rate for Males: 18.0%
+Average Pneumonia Mortality Rate for Females: 34.0%
+Claim Refuted: Men are not more susceptible to death due to pneumonia compared to women.

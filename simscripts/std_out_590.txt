@@ -1,0 +1,5 @@
+In the environment, you see: 
+	An adult aged 30 with current ADHD medication use has a cardiovascular event risk of 0.83.
+	An adult aged 45 with remote ADHD medication use has a cardiovascular event risk of 1.02.
+	An adult aged 25 with none ADHD medication use has a cardiovascular event risk of 1.0.
+
