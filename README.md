@@ -2,7 +2,7 @@
 
 ## Write-up
 
-See PDF file: [`Project3_ScientificReasoning.pdf`](https://github.com/visalakshi2001/applied-nlp-project3/blob/main/Project3_ScientificReasoning.pdf) for write-up 
+### See PDF file: [Project3_ScientificReasoning.pdf](https://github.com/visalakshi2001/applied-nlp-project3/blob/main/Project3_ScientificReasoning.pdf) for write-up 
 
 ## Description
 This project implements a novel approach to verifying scientific claims by generating and running Python simulations. The approach is applied to the SciFact dataset, with a focus on claims from the train subset and further filtered for those with cited evidence. The system uses GPT-based models to generate simulations based on claims and supporting evidence and subsequently analyzes the simulation results to classify the claims as Supported, Refuted, or Unverifiable.
